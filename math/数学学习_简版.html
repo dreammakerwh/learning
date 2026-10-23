@@ -1,0 +1,350 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<meta name="description" content="6岁儿童数学启蒙与小学六年知识地图；59个知识点，每点附教法、示例与掌握标志；完全离线可用。">
+<title>从100以内加减法出发｜小学六年数学知识与亲子教法手册</title>
+<style>
+:root{--ink:#142b32;--muted:#52666c;--jade:#077a69;--jade-light:#e7f5f1;--amber:#b9651b;--amber-light:#fff2dd;--stroke:#dde6e3;--paper:#fafbf9;--white:#fff;--shadow:0 9px 28px rgba(20,50,51,.05)}
+*{box-sizing:border-box} html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.72 -apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Noto Sans CJK SC",sans-serif} a{color:inherit} button,input{font:inherit} .shell{max-width:1200px;margin:auto;display:grid;grid-template-columns:265px minmax(0,1fr);gap:32px;padding:30px 26px 120px}
+.sidebar{position:sticky;top:20px;align-self:start;max-height:calc(100vh - 40px);overflow:auto;padding:18px;background:white;border:1px solid var(--stroke);border-radius:16px}.brand{font-size:13px;letter-spacing:.09em;color:var(--jade);font-weight:800} .side-title{font-size:22px;line-height:1.4;margin:10px 0} .muted{color:var(--muted)} .nav a{display:block;font-size:13px;font-weight:600;padding:9px 10px;border-radius:8px;text-decoration:none}.nav a:hover{background:var(--jade-light)}.nav small{color:var(--muted);font-weight:400}.navtitle{font-size:11px;color:#829294;letter-spacing:.15em;margin:16px 8px 5px;text-transform:uppercase}.side-note{font-size:12px;color:var(--muted);border-top:1px solid var(--stroke);padding-top:12px;margin-top:15px}.content{min-width:0}
+.hero{background:linear-gradient(133deg,#113d40,#156c61 76%,#259082);color:white;border-radius:24px;padding:48px 48px 36px;position:relative;overflow:hidden;min-height:335px}.hero:after{content:"1 2 3 4 5";position:absolute;right:-16px;top:52px;transform:rotate(-19deg);font-size:77px;font-weight:900;letter-spacing:.06em;opacity:.08;white-space:nowrap;pointer-events:none}.hero .kicker{letter-spacing:.19em;font-size:13px;color:#bce9dc;font-weight:800}.hero h1{font-size:clamp(28px,4vw,46px);line-height:1.28;letter-spacing:-.025em;max-width:620px;margin:16px 0 14px}.hero p{font-size:15px;max-width:620px;color:#e4f5f1}.hero-bottom{display:flex;flex-wrap:wrap;gap:10px;margin-top:28px}.hero-bottom span{background:#ffffff1f;border:1px solid #ffffff39;padding:7px 12px;border-radius:100px;font-size:12px}
+.toolbar{display:flex;align-items:center;gap:9px;flex-wrap:wrap;margin:18px 0 36px;padding:12px;background:white;border:1px solid var(--stroke);border-radius:14px}.toolbar label{font-size:12px;font-weight:700;color:var(--muted)}.toolbar input{flex:1;min-width:160px;padding:9px 12px;border:1px solid var(--stroke);border-radius:8px;outline:none}.toolbar input:focus{border-color:var(--jade)}.toolbar select{border:1px solid var(--stroke);border-radius:8px;padding:9px;background:white;color:var(--ink)}.btn{border:1px solid var(--stroke);padding:9px 12px;background:white;border-radius:8px;cursor:pointer;color:var(--ink);font-weight:700;font-size:12px}.btn.primary{background:var(--jade);color:white;border-color:var(--jade)}.btn:hover{filter:brightness(.95)}.mini-result{color:var(--muted);font-size:12px;margin-left:auto}
+.intro{background:white;border:1px solid var(--stroke);border-radius:18px;padding:28px 30px;margin-bottom:32px}h2{font-size:26px;line-height:1.4;letter-spacing:-.025em;margin:0 0 16px}h3{margin:0;font-size:19px;line-height:1.45}p{margin:8px 0 12px}.lead{font-size:16px;line-height:1.85}.eyebrow{color:var(--jade);font-size:12px;letter-spacing:.08em;font-weight:800}.keyline{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:20px 0}.keyline>div{background:#f0f7f4;padding:14px;border-radius:12px}.keyline b{display:block;margin-bottom:4px;color:#106b5c}.keyline span{font-size:13px;line-height:1.6;color:var(--muted)}.highlight{border-left:4px solid #e5a859;background:#fffaef;padding:12px 18px;margin:18px 0;border-radius:0 12px 12px 0;font-size:14px}
+.roadmap{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin:22px 0}.road{border:1px solid var(--stroke);padding:15px;border-radius:12px;background:#fff}.road strong{display:block;margin:4px 0}.road .step{font-size:11px;font-weight:700;color:var(--jade)}.road p{font-size:13px;color:var(--muted);margin:4px 0}.road .example{font-size:12px;color:#8b572e}
+.tablewrap{overflow-x:auto}table{border-collapse:collapse;width:100%;font-size:13px}th{text-align:left;background:#eef5f2;color:#275f57}td,th{border-bottom:1px solid var(--stroke);padding:11px 10px;vertical-align:top}td:first-child{font-weight:750;white-space:nowrap;min-width:96px}
+.knowledge-section{margin:58px 0 50px;scroll-margin-top:16px}.section-heading{display:flex;align-items:center;gap:15px;border-bottom:1px solid var(--stroke);padding-bottom:14px}.section-number{color:#b3d9d0;font-weight:900;font-size:40px;line-height:1}.section-heading h2{margin:1px 0 0}.section-caption{font-size:13px;color:var(--muted);margin:12px 0 24px}.card-stack{display:grid;grid-template-columns:1fr;gap:13px}
+.topic{border:1px solid var(--stroke);background:white;border-radius:14px;box-shadow:var(--shadow);padding:18px 21px;break-inside:avoid;scroll-margin-top:20px}.topic-top{display:flex;flex-wrap:wrap;align-items:center;gap:8px 10px}.topic-top .index{font-size:12px;font-weight:800;color:var(--jade);background:var(--jade-light);padding:4px 7px;border-radius:6px}.topic-top h3{flex:1;min-width:180px}.grade{color:var(--muted);font-size:11px;white-space:nowrap}.tag{font-size:11px;font-weight:800;border-radius:100px;padding:3px 9px;white-space:nowrap}.tag.primary{background:#d8efe7;color:#16644f}.tag.explore{background:#fff0ce;color:#86510f}.tag.later{background:#e9ebf7;color:#505b8b}.tag.advanced{background:#e9e9e9;color:#595959}
+.topic-body .definition{margin:14px 0;font-size:14px}.definition strong{font-size:11px;color:var(--jade);margin-right:10px;letter-spacing:.05em}.lesson{display:grid;grid-template-columns:1.3fr 1fr;gap:11px}.lesson>div{background:#f7faf8;border-radius:10px;padding:10px 13px}.lesson p{font-size:13px;margin:4px 0 0;line-height:1.7}.lesson .question{font-weight:650;color:#375a56}.pill{display:inline-block;color:#4d7770;font-size:11px;font-weight:800}.checkrow{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:10px}.checkrow p{margin:0;font-size:12px;line-height:1.65;color:var(--muted)}.checkrow b{color:#42695f}
+.figure{border:1px solid var(--stroke);background:#fcfefc;border-radius:14px;padding:15px;display:grid;grid-template-columns:1fr 1fr;align-items:center;gap:15px;margin:18px 0}.figure p{font-size:13px;color:var(--muted)}.diagram{padding:10px;min-height:130px;display:flex;align-items:center;justify-content:center}.dots{display:grid;grid-template-columns:repeat(4,16px);gap:8px}.dots i{display:block;background:#2b8e7c;width:16px;height:16px;border-radius:50%}.boxgrid{display:grid;grid-template-columns:repeat(4,30px);grid-template-rows:repeat(3,30px);gap:3px}.boxgrid i{background:#f3c578;border:1px solid #bd8946;border-radius:3px}
+.schedule{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:17px 0}.phase{border:1px solid var(--stroke);border-radius:12px;background:white;padding:16px}.phase h3{font-size:16px}.phase .time{font-size:12px;font-weight:700;color:var(--jade)}.phase p{font-size:13px;color:var(--muted)}.phase ul{font-size:13px;padding-left:19px;color:var(--muted)}.note{background:var(--jade-light);padding:16px 18px;border-radius:12px;font-size:14px}.ref p{font-size:12px;word-break:break-all;color:var(--muted)}.ref a{color:var(--jade)}.footer{font-size:12px;color:var(--muted);text-align:center;margin:32px 0}
+@media(max-width:920px){.shell{grid-template-columns:1fr;padding:12px 14px 80px}.sidebar{position:static;max-height:none}.nav{display:grid;grid-template-columns:repeat(2,1fr)}.side-note{display:none}.hero{padding:30px 24px}.keyline,.schedule{grid-template-columns:1fr}.roadmap{grid-template-columns:1fr 1fr}}
+@media(max-width:620px){.hero{padding:27px 21px;min-height:0}.intro{padding:20px 17px}.nav{grid-template-columns:1fr}.roadmap{grid-template-columns:1fr}.lesson,.checkrow{grid-template-columns:1fr}.topic{padding:15px 14px}.figure{grid-template-columns:1fr}.toolbar select{flex:1}.section-heading h2{font-size:22px}}
+@page{size:A4;margin:14mm 14mm 16mm}@media print{html{scroll-behavior:auto}body{background:white;color:black;font-size:11pt;line-height:1.52}.shell{display:block;padding:0;max-width:none}.sidebar,.toolbar,.screen-only{display:none!important}.hero{background:#eef5f2!important;color:#183b39!important;padding:18mm 12mm;min-height:0;border:1px solid #aac3bf;break-after:page}.hero p,.hero .kicker{color:#365b59!important}.hero-bottom span{color:#183b39!important;border:1px solid #aac3bf}.intro{border:0;padding:0;margin:0 0 8mm}.knowledge-section{margin:9mm 0 6mm;break-before:auto}.section-heading{break-after:avoid}.topic{box-shadow:none;border:1px solid #cfd9d5;padding:9px 12px;margin:0;break-inside:avoid}.card-stack{gap:7px}.topic-top h3{font-size:14pt}.lesson p,.definition,.checkrow p{font-size:9pt}.lesson{grid-template-columns:1.25fr 1fr}.lesson>div{padding:6px 9px;background:#f5f7f5!important}.tag,.index,.eyebrow,.pill{-webkit-print-color-adjust:exact;print-color-adjust:exact}.schedule{grid-template-columns:repeat(3,1fr)}h2{font-size:18pt}.footer{display:none!important}a{text-decoration:none;color:inherit}}
+</style>
+</head>
+<body>
+<div class="shell">
+<aside class="sidebar"><div class="brand">家庭数学手册 / 离线版</div><div class="side-title">从100以内加减法<br>走向小学六年数学</div><p class="muted" style="font-size:12px">一张知识地图 + 59个可操作的知识点</p><div class="nav"><div class="navtitle">导航目录</div><a href="#start">如何使用与学习顺序</a><a href="#grade-map">小学六年知识地图</a><a href="#example">两张直观教学示意图</a><a href="#sec1">一、数与代数：先把“数”理解透 <small>（27项）</small></a>
+<a href="#sec2">二、图形与几何：把数学“摸出来” <small>（17项）</small></a>
+<a href="#sec3">三、统计与概率：让孩子学会用数据说话 <small>（6项）</small></a>
+<a href="#sec4">四、综合实践与思维：把知识带进生活 <small>（9项）</small></a><a href="#plan">12周弹性学习计划</a><a href="#references">资料与说明</a></div><div class="side-note">此文件无图片、字体、脚本网络依赖。可离线使用；点击“打印 / 存为PDF”即可导出纸质版。</div></aside>
+<main class="content">
+<header class="hero"><div class="kicker">6岁+ · 家长教学参考</div><h1>小学六年数学知识<br>与亲子教法手册</h1><p>孩子已经基本掌握100以内加减法，接下来教什么？这份手册把小学数学的核心知识分解为可理解、可操作、可提问的小单元，并标出适合现在学与以后学的内容。</p><div class="hero-bottom"><span>数与代数 27 项</span><span>图形与几何 17 项</span><span>统计与概率 6 项</span><span>综合实践 9 项</span></div></header>
+<div class="toolbar screen-only"><label for="search">查找知识点</label><input id="search" placeholder="搜索：乘法、面积、分数、负数……" aria-label="搜索知识点"><select id="stage"><option value="全部">全部阶段</option><option>现在重点</option><option>现在体验</option><option>稍后学习</option><option>高年级</option></select><button class="btn" id="clear">重置</button><button class="btn primary" id="print">打印 / 存为PDF</button><span class="mini-result" id="result">共 59 项</span></div>
+<section class="intro" id="start"><div class="eyebrow">先看这里</div><h2>不是让6岁孩子提前刷完六年题目，而是让知识点有一条清晰的路</h2><p class="lead">主线是<strong>理解 → 动手 → 说理由 → 写算式 → 熟练</strong>。可以提前接触大数、负数、小数、几何，但“能读出”不等于“有量感”，“能背口诀”不等于“理解乘法”。</p>
+<div class="keyline"><div><b>现在重点</b><span>优先反复操作，建立长期基础。</span></div><div><b>现在体验</b><span>用生活情境认识，不求复杂计算。</span></div><div><b>稍后 / 高年级</b><span>知道知识如何衔接，到适龄时再系统学。</span></div></div>
+<div class="highlight"><b>推荐优先顺序：</b>巩固位值和加减算理 → 千与万 → 乘法与倍 → 两种除法 → 分数/小数直觉 → 大数与负数趣味探索。几何、测量、逻辑与统计从现在起同步穿插。不是绝对的先修顺序。</div>
+<h3>给家长的五条实践原则</h3><ol><li>每次10～20分钟即可，兴趣降低就结束；不追赶章节进度。</li><li>先用物品、画图、故事，再写数字和符号。</li><li>用“你为什么这样想”替代连续追问“答案是多少”。</li><li>已经会了也可以换情境：购物、积木、时钟、烘焙、出行。</li><li>孩子能解释和迁移，比短时间内答题更快更重要。</li></ol></section>
+<section class="intro" id="grade-map"><div class="eyebrow">课程全景</div><h2>小学1～6年级的大致知识框架</h2><p class="muted" style="font-size:13px">基于中国教育部《义务教育数学课程标准（2022年版）》的三个小学学段整理。以下是家长易用的主题归纳，<strong>不是某版教材的精确逐册目录</strong>；不同教材顺序略有区别。</p><div class="tablewrap"><table><thead><tr><th>年级阶段</th><th>数与代数</th><th>图形与几何</th><th>统计与实践</th></tr></thead><tbody><tr><td>一年级</td><td>20以内与100以内数；加减法的意义、组成与比较</td><td>基本平面图形、立体图形；前后左右、直观拼摆</td><td>分类、简单规律、认识钟面、购物情境</td></tr><tr><td>二年级</td><td>万以内数与数位；加减法；乘法含义、乘法口诀、简单除法和余数</td><td>厘米和米；测量；角与图形的直观认识</td><td>时间、钱币、数据计数、简单生活问题</td></tr><tr><td>三年级</td><td>整数乘除计算与混合运算；初步认识分数、小数</td><td>周长、长方形与正方形面积；观察物体；长度单位</td><td>年月日、质量单位、基础数据整理</td></tr><tr><td>四年级</td><td>万以上的大数；多位数乘除；运算律；小数或分数内容深化</td><td>角与量角器；平行垂直；三角形、四边形；图形运动</td><td>条形图、平均数；行程及其他数量关系</td></tr><tr><td>五年级</td><td>小数乘除；因数倍数、质数合数；分数性质与运算；字母和方程</td><td>三角形等平面图形面积；长方体、正方体、表面积体积</td><td>折线图、可能性、生活中的数据分析</td></tr><tr><td>六年级</td><td>分数乘除、百分数、比、比例；负数的生活意义；综合数量关系</td><td>圆的周长面积、圆柱圆锥；比例尺、位置与运动</td><td>扇形图、数据比较；综合项目与小学数学系统复习</td></tr></tbody></table></div>
+<div class="roadmap"><div class="road"><span class="step">路径 A · 数感</span><strong>个十百 → 千万亿 → 数轴</strong><p>大数读法是延伸；真实量感要靠比较与估算。</p></div><div class="road"><span class="step">路径 B · 运算</span><strong>加减 → 乘除 → 分数小数 → 代数</strong><p>理解数量关系，比提前刷复杂竖式更优先。</p></div><div class="road"><span class="step">路径 C · 几何</span><strong>形状 → 测量 → 周长面积 → 体积</strong><p>用剪纸、积木和实测推动空间理解。</p></div><div class="road"><span class="step">路径 D · 数据</span><strong>分类 → 图表 → 平均数 → 可能性</strong><p>记录天气、玩具、植物生长就能开始。</p></div></div></section>
+<section class="intro" id="example"><div class="eyebrow">可直接照着做</div><h2>两个不靠死记的教学例子</h2><div class="figure"><div class="diagram"><div class="dots"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></div><div><b>乘法：3行，每行4个</b><p>请孩子数出共有12颗点；把纸横过来，会看到4行、每行3个。试着说出3×4与4×3代表的两种看法。</p></div></div><div class="figure"><div class="diagram"><div class="boxgrid"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div></div><div><b>面积：3行×4格=12平方格</b><p>不是先背“长×宽”，而是先铺满，再发现每一行相同，能用乘法快速计数。和沿外边一圈的“周长”做对比。</p></div></div></section>
+<section class="knowledge-section" id="sec1"><div class="section-heading"><span class="section-number">01</span><div><div class="eyebrow">数与代数 · 27个知识点</div><h2>一、数与代数：先把“数”理解透</h2></div></div><p class="section-caption">每个知识点都包含概念、亲子活动、提问方式、掌握标志和常见误区。</p><div class="card-stack"><article class="topic" id="N01" data-stage="现在重点" data-search="个位、十位与数的组成 十进制的“满十进一”；46表示4个十和6个一。 拿46根小棒，每10根捆成一捆；拆开一捆体验“借一当十”。用43、304比较“0”占位。 46里面有几个十？把46变成36，拿走了什么？">
+       <div class="topic-top"><span class="index">N01</span><h3>个位、十位与数的组成</h3><span class="tag primary">现在重点</span><span class="grade">1–2年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>十进制的“满十进一”；46表示4个十和6个一。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>拿46根小棒，每10根捆成一捆；拆开一捆体验“借一当十”。用43、304比较“0”占位。</p></div><div><span class="pill">可以问孩子</span><p class="question">“46里面有几个十？把46变成36，拿走了什么？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能用物品、图画和算式表示同一个数。</p><p><b>避免误区：</b>只会读数字却不能说出每一位的意义。</p></div></div>
+       </article><article class="topic" id="N02" data-stage="现在重点" data-search="百、千、万与数位表 十个百是一千，十个千是一万；数位决定每个数字的价值。 用纸卡做“个、十、百、千、万”数位表，摆出3075、12040；让孩子自己解释中间的0。 3075里有几个百？“10个千”是多少？">
+       <div class="topic-top"><span class="index">N02</span><h3>百、千、万与数位表</h3><span class="tag primary">现在重点</span><span class="grade">1–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>十个百是一千，十个千是一万；数位决定每个数字的价值。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用纸卡做“个、十、百、千、万”数位表，摆出3075、12040；让孩子自己解释中间的0。</p></div><div><span class="pill">可以问孩子</span><p class="question">“3075里有几个百？“10个千”是多少？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能说出几位数及每位含义、正确读写四五位数。</p><p><b>避免误区：</b>直接背长数字，跳过十进制位值。</p></div></div>
+       </article><article class="topic" id="N03" data-stage="现在体验" data-search="十万、百万、千万、亿 万级、亿级；四位一级读大数。认读与量感是两种能力。 先用数位表分组“1｜2345｜6789”，再用书页、秒数等体验一百万/一亿非常大。 一亿中有几个一千万？100000000为什么读作一亿？">
+       <div class="topic-top"><span class="index">N03</span><h3>十万、百万、千万、亿</h3><span class="tag explore">现在体验</span><span class="grade">3–4年级及拓展</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>万级、亿级；四位一级读大数。认读与量感是两种能力。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>先用数位表分组“1｜2345｜6789”，再用书页、秒数等体验一百万/一亿非常大。</p></div><div><span class="pill">可以问孩子</span><p class="question">“一亿中有几个一千万？100000000为什么读作一亿？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能按四位分级正确读数，知道大数相对大小。</p><p><b>避免误区：</b>急着练六七位数的复杂笔算。</p></div></div>
+       </article><article class="topic" id="N04" data-stage="现在重点" data-search="比大小、排序、数轴 位数与高位比较、数字在数轴上的位置、相邻数与距离。 在地板贴一条0～100数轴，移动小人；逐渐扩展到千。先比千位，再比百位。 399和403谁大？哪个数离500更近？">
+       <div class="topic-top"><span class="index">N04</span><h3>比大小、排序、数轴</h3><span class="tag primary">现在重点</span><span class="grade">1–3年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>位数与高位比较、数字在数轴上的位置、相邻数与距离。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>在地板贴一条0～100数轴，移动小人；逐渐扩展到千。先比千位，再比百位。</p></div><div><span class="pill">可以问孩子</span><p class="question">“399和403谁大？哪个数离500更近？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能解释比较依据并在数轴上估出大致位置。</p><p><b>避免误区：</b>只记“位数多的大”而不认识位值。</p></div></div>
+       </article><article class="topic" id="N05" data-stage="现在重点" data-search="100以内加减与算理 合并、增加、移走、相差；进位退位是十进制交换。 37+28先凑整：37+3+25=65；52−18先减20再加2，也可用小棒拆十。 37+28你能想两种办法吗？52−18为什么可以“−20+2”？">
+       <div class="topic-top"><span class="index">N05</span><h3>100以内加减与算理</h3><span class="tag primary">现在重点</span><span class="grade">1–2年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>合并、增加、移走、相差；进位退位是十进制交换。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>37+28先凑整：37+3+25=65；52−18先减20再加2，也可用小棒拆十。</p></div><div><span class="pill">可以问孩子</span><p class="question">“37+28你能想两种办法吗？52−18为什么可以“−20+2”？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能解释方法、估算结果、用减法检查加法。</p><p><b>避免误区：</b>只训练速度和列竖式，忽略“为什么”。</p></div></div>
+       </article><article class="topic" id="N06" data-stage="现在重点" data-search="加减关系与未知数方框 加减互逆；一个未知量也可以用□表示。 用“盒子里原来几颗糖”讲故事：□+7=15；让孩子画图、倒着思考。 □−6=9，你能画图说明吗？">
+       <div class="topic-top"><span class="index">N06</span><h3>加减关系与未知数方框</h3><span class="tag primary">现在重点</span><span class="grade">1–3年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>加减互逆；一个未知量也可以用□表示。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用“盒子里原来几颗糖”讲故事：□+7=15；让孩子画图、倒着思考。</p></div><div><span class="pill">可以问孩子</span><p class="question">“□−6=9，你能画图说明吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>无需猜数便可说出逆运算的逻辑。</p><p><b>避免误区：</b>只教移项口诀。</p></div></div>
+       </article><article class="topic" id="N07" data-stage="现在重点" data-search="估算与取近似数 有时只需知道答案“大约多少”，用于核查计算。 模拟买3件约20元的商品；把198看成200、203看成200，再比较精确答案。 198+203大约是400，对吗？为什么？">
+       <div class="topic-top"><span class="index">N07</span><h3>估算与取近似数</h3><span class="tag primary">现在重点</span><span class="grade">2–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>有时只需知道答案“大约多少”，用于核查计算。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>模拟买3件约20元的商品；把198看成200、203看成200，再比较精确答案。</p></div><div><span class="pill">可以问孩子</span><p class="question">“198+203大约是400，对吗？为什么？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能选择合适近似数并说明估算是否够用。</p><p><b>避免误区：</b>把估算误认为随意猜测。</p></div></div>
+       </article><article class="topic" id="N08" data-stage="现在重点" data-search="乘法：相同的几组 乘法表达相同数量的组或阵列；3×4可表示3组、每组4个。 摆3盘，每盘4颗棋子；用积木摆3行4列，再旋转，观察3×4与4×3。 5盒彩笔，每盒3支，一共有多少？">
+       <div class="topic-top"><span class="index">N08</span><h3>乘法：相同的几组</h3><span class="tag primary">现在重点</span><span class="grade">1–2年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>乘法表达相同数量的组或阵列；3×4可表示3组、每组4个。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>摆3盘，每盘4颗棋子；用积木摆3行4列，再旋转，观察3×4与4×3。</p></div><div><span class="pill">可以问孩子</span><p class="question">“5盒彩笔，每盒3支，一共有多少？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能将实物分组、连加法、乘法算式对应起来。</p><p><b>避免误区：</b>未理解“组”就先背口诀。</p></div></div>
+       </article><article class="topic" id="N09" data-stage="现在重点" data-search="乘法口诀、跳数与倍 乘法口诀让熟悉的组数关系自动化；“倍”是相对关系。 先练2、5、10的跳数与阵列，再4、3、6、7、8、9；用骰子决定组数和每组数量。 小红有4颗糖，小蓝是她的3倍，小蓝有几颗？">
+       <div class="topic-top"><span class="index">N09</span><h3>乘法口诀、跳数与倍</h3><span class="tag primary">现在重点</span><span class="grade">2–3年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>乘法口诀让熟悉的组数关系自动化；“倍”是相对关系。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>先练2、5、10的跳数与阵列，再4、3、6、7、8、9；用骰子决定组数和每组数量。</p></div><div><span class="pill">可以问孩子</span><p class="question">“小红有4颗糖，小蓝是她的3倍，小蓝有几颗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能用图解释口诀，并逐步熟练口算。</p><p><b>避免误区：</b>一天要求背全表；把“3倍”与“多3”混淆。</p></div></div>
+       </article><article class="topic" id="N10" data-stage="现在重点" data-search="除法：平均分与包含分 12÷3既可表示平均分给3人，也可表示每3个一组可分几组。 用12颗积木分别做两种游戏：分给3人；每盒装3个。写出相关算式。 12块饼干，每人3块，可以给几个人？">
+       <div class="topic-top"><span class="index">N10</span><h3>除法：平均分与包含分</h3><span class="tag primary">现在重点</span><span class="grade">2–3年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>12÷3既可表示平均分给3人，也可表示每3个一组可分几组。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用12颗积木分别做两种游戏：分给3人；每盒装3个。写出相关算式。</p></div><div><span class="pill">可以问孩子</span><p class="question">“12块饼干，每人3块，可以给几个人？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能自己区分两种分法并与乘法联系起来。</p><p><b>避免误区：</b>只教“除法是乘法倒过来算”。</p></div></div>
+       </article><article class="topic" id="N11" data-stage="现在体验" data-search="有余数的除法 不能均分完的剩余量就是余数；余数要小于除数。 17颗豆子，每袋装5颗；装3袋，剩2颗；实物摆出17=5×3+2。 为什么17÷5不能说成3袋余5颗？">
+       <div class="topic-top"><span class="index">N11</span><h3>有余数的除法</h3><span class="tag explore">现在体验</span><span class="grade">2–3年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>不能均分完的剩余量就是余数；余数要小于除数。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>17颗豆子，每袋装5颗；装3袋，剩2颗；实物摆出17=5×3+2。</p></div><div><span class="pill">可以问孩子</span><p class="question">“为什么17÷5不能说成3袋余5颗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能说清商和余数各代表什么。</p><p><b>避免误区：</b>只机械写带余数算式，不解释余数单位。</p></div></div>
+       </article><article class="topic" id="N12" data-stage="稍后学习" data-search="多位数加减、乘除竖式 竖式是按数位组织计算；乘法与除法可分步拆解。 先做23×4=20×4+3×4，再给出竖式；84÷4用80和4分拆。 23×4为什么先算3×4，还要处理20×4？">
+       <div class="topic-top"><span class="index">N12</span><h3>多位数加减、乘除竖式</h3><span class="tag later">稍后学习</span><span class="grade">2–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>竖式是按数位组织计算；乘法与除法可分步拆解。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>先做23×4=20×4+3×4，再给出竖式；84÷4用80和4分拆。</p></div><div><span class="pill">可以问孩子</span><p class="question">“23×4为什么先算3×4，还要处理20×4？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能用拆分法解释竖式每一步。</p><p><b>避免误区：</b>单纯记进位写法和试商步骤。</p></div></div>
+       </article><article class="topic" id="N13" data-stage="稍后学习" data-search="运算顺序与括号 括号先算；同级一般从左到右；乘除优先于加减。 用买票情境：3人每人买“4元票+2元饮料”，比较3×(4+2)与3×4+2。 3×(4+2)和3×4+2是一个意思吗？">
+       <div class="topic-top"><span class="index">N13</span><h3>运算顺序与括号</h3><span class="tag later">稍后学习</span><span class="grade">3–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>括号先算；同级一般从左到右；乘除优先于加减。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用买票情境：3人每人买“4元票+2元饮料”，比较3×(4+2)与3×4+2。</p></div><div><span class="pill">可以问孩子</span><p class="question">“3×(4+2)和3×4+2是一个意思吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能根据文字情境自行写出含括号算式。</p><p><b>避免误区：</b>把规则当口令，没解释括号对应的“整体”。</p></div></div>
+       </article><article class="topic" id="N14" data-stage="稍后学习" data-search="交换律、结合律、分配律 运算规律让计算变简单；分配律连接乘法与加法。 积木摆3组(4红+2蓝)，拆为3×4+3×2；比较25×4与4×25。 6×13可以算6×(10+3)吗？">
+       <div class="topic-top"><span class="index">N14</span><h3>交换律、结合律、分配律</h3><span class="tag later">稍后学习</span><span class="grade">3–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>运算规律让计算变简单；分配律连接乘法与加法。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>积木摆3组(4红+2蓝)，拆为3×4+3×2；比较25×4与4×25。</p></div><div><span class="pill">可以问孩子</span><p class="question">“6×13可以算6×(10+3)吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>会用示意图或拆分说明规律。</p><p><b>避免误区：</b>误把乘法分配律套进除法。</p></div></div>
+       </article><article class="topic" id="N15" data-stage="现在体验" data-search="正数、0与负数 负数用于温度、海拔、收支等相反意义的量；数轴上越往右越大。 画−5～5数轴，用零下3℃和零上2℃看位置；乘电梯从地下2层到地面。 −2和−5谁大？地下2层记什么数？">
+       <div class="topic-top"><span class="index">N15</span><h3>正数、0与负数</h3><span class="tag explore">现在体验</span><span class="grade">5–6年级正式拓展</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>负数用于温度、海拔、收支等相反意义的量；数轴上越往右越大。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>画−5～5数轴，用零下3℃和零上2℃看位置；乘电梯从地下2层到地面。</p></div><div><span class="pill">可以问孩子</span><p class="question">“−2和−5谁大？地下2层记什么数？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能辨别负号含义，在数轴上比较数。</p><p><b>避免误区：</b>过早引入负数乘除法。</p></div></div>
+       </article><article class="topic" id="N16" data-stage="现在体验" data-search="一半、几分之一与分数 把一个“整体”平均分，1/2、1/4中的分母表示分成几份。 对折圆纸或把同一块巧克力均分2份、4份；特意比较“没平均分”不能写1/2。 半个大披萨和半个小披萨一定一样多吗？">
+       <div class="topic-top"><span class="index">N16</span><h3>一半、几分之一与分数</h3><span class="tag explore">现在体验</span><span class="grade">3–5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>把一个“整体”平均分，1/2、1/4中的分母表示分成几份。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>对折圆纸或把同一块巧克力均分2份、4份；特意比较“没平均分”不能写1/2。</p></div><div><span class="pill">可以问孩子</span><p class="question">“半个大披萨和半个小披萨一定一样多吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>会指出整体是什么、是否平均分。</p><p><b>避免误区：</b>只讲“分母写下面”，忽略整体和平均分。</p></div></div>
+       </article><article class="topic" id="N17" data-stage="稍后学习" data-search="分数大小、等值分数 分数可不同写法表示同一个量，如1/2=2/4。 折纸条涂色比较1/2、2/4、3/6；同样大的纸条比较1/4与1/3。 为什么1/2=2/4？分母大一定更大吗？">
+       <div class="topic-top"><span class="index">N17</span><h3>分数大小、等值分数</h3><span class="tag later">稍后学习</span><span class="grade">3–5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>分数可不同写法表示同一个量，如1/2=2/4。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>折纸条涂色比较1/2、2/4、3/6；同样大的纸条比较1/4与1/3。</p></div><div><span class="pill">可以问孩子</span><p class="question">“为什么1/2=2/4？分母大一定更大吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能通过同整体纸片说明分数大小。</p><p><b>避免误区：</b>比较分子分母时不固定整体。</p></div></div>
+       </article><article class="topic" id="N18" data-stage="高年级" data-search="通分、约分与分数加减 分数单位相同才能方便相加减；约分不改变数量。 两条等长纸带，把1/2改成2/4，再与1/4相加；先做图再写式。 1/2+1/4为什么不是2/6？">
+       <div class="topic-top"><span class="index">N18</span><h3>通分、约分与分数加减</h3><span class="tag advanced">高年级</span><span class="grade">5–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>分数单位相同才能方便相加减；约分不改变数量。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>两条等长纸带，把1/2改成2/4，再与1/4相加；先做图再写式。</p></div><div><span class="pill">可以问孩子</span><p class="question">“1/2+1/4为什么不是2/6？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能解释把不同单位转成相同单位。</p><p><b>避免误区：</b>先记通分步骤再理解等值。</p></div></div>
+       </article><article class="topic" id="N19" data-stage="高年级" data-search="分数乘除法 分数乘法可理解为“一个量的几分之几”；分数除法与分配、倍数有关。 用1/2米纸带取其中的1/3；用图示表示1/2×1/3；分数除法先做简单分份。 半张纸的三分之一是多少张？">
+       <div class="topic-top"><span class="index">N19</span><h3>分数乘除法</h3><span class="tag advanced">高年级</span><span class="grade">5–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>分数乘法可理解为“一个量的几分之几”；分数除法与分配、倍数有关。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用1/2米纸带取其中的1/3；用图示表示1/2×1/3；分数除法先做简单分份。</p></div><div><span class="pill">可以问孩子</span><p class="question">“半张纸的三分之一是多少张？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能以图示和数量关系解释运算。</p><p><b>避免误区：</b>直接背“分子乘分子、除以改乘倒数”。</p></div></div>
+       </article><article class="topic" id="N20" data-stage="现在体验" data-search="小数：十分之一、百分之一 0.1是十分之一，1.5是1又二分之一；小数以十进制延伸到1以下。 十格纸条涂1格表示0.1；1米分成10段；把1元5角写作1.5元。 0.5和0.50一样多吗？0.8比0.65大吗？">
+       <div class="topic-top"><span class="index">N20</span><h3>小数：十分之一、百分之一</h3><span class="tag explore">现在体验</span><span class="grade">3–5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>0.1是十分之一，1.5是1又二分之一；小数以十进制延伸到1以下。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>十格纸条涂1格表示0.1；1米分成10段；把1元5角写作1.5元。</p></div><div><span class="pill">可以问孩子</span><p class="question">“0.5和0.50一样多吗？0.8比0.65大吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能用涂格、钱币、米尺解释简单小数。</p><p><b>避免误区：</b>误以为小数位数越多越大。</p></div></div>
+       </article><article class="topic" id="N21" data-stage="高年级" data-search="小数加减乘除 小数点对齐实质上是相同数位相加；乘除要理解数量大小。 1.2元+0.5元从钱币算起，再过渡列式；0.3×4表示4个0.3。 1.2+0.5为什么是1.7？0.4×2大约多少？">
+       <div class="topic-top"><span class="index">N21</span><h3>小数加减乘除</h3><span class="tag advanced">高年级</span><span class="grade">3–5年级至后续</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>小数点对齐实质上是相同数位相加；乘除要理解数量大小。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>1.2元+0.5元从钱币算起，再过渡列式；0.3×4表示4个0.3。</p></div><div><span class="pill">可以问孩子</span><p class="question">“1.2+0.5为什么是1.7？0.4×2大约多少？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能先估计结果，再解释小数点的位置。</p><p><b>避免误区：</b>只强调“小数点对齐”“数小数位数”。</p></div></div>
+       </article><article class="topic" id="N22" data-stage="稍后学习" data-search="因数、倍数、奇偶与质数 因数是能整除的数；质数恰好有2个正因数；1既不是质数也不是合数。 用24个方块摆成长方形，数出1×24、2×12、3×8、4×6；观察奇偶配对。 7个积木能摆成几行几列的整齐阵列？">
+       <div class="topic-top"><span class="index">N22</span><h3>因数、倍数、奇偶与质数</h3><span class="tag later">稍后学习</span><span class="grade">5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>因数是能整除的数；质数恰好有2个正因数；1既不是质数也不是合数。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用24个方块摆成长方形，数出1×24、2×12、3×8、4×6；观察奇偶配对。</p></div><div><span class="pill">可以问孩子</span><p class="question">“7个积木能摆成几行几列的整齐阵列？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>会由排列找因数，分清质数和合数。</p><p><b>避免误区：</b>把“质数=奇数”或把1当质数。</p></div></div>
+       </article><article class="topic" id="N23" data-stage="高年级" data-search="最大公因数、最小公倍数 同样大小的最大方砖与相遇周期等问题可分别使用公因数、公倍数。 12厘米和18厘米纸带，想用最长等长小段且不剩余；用彩笔标出2和3的倍数。 每2天一次和每3天一次，几天后再次同日？">
+       <div class="topic-top"><span class="index">N23</span><h3>最大公因数、最小公倍数</h3><span class="tag advanced">高年级</span><span class="grade">5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>同样大小的最大方砖与相遇周期等问题可分别使用公因数、公倍数。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>12厘米和18厘米纸带，想用最长等长小段且不剩余；用彩笔标出2和3的倍数。</p></div><div><span class="pill">可以问孩子</span><p class="question">“每2天一次和每3天一次，几天后再次同日？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能根据问题判断找公因数还是公倍数。</p><p><b>避免误区：</b>只背短除法没有应用语义。</p></div></div>
+       </article><article class="topic" id="N24" data-stage="高年级" data-search="百分数与折扣 百分数表示“每100份中多少份”，本质是比率而非单独的数量。 100格方纸涂25格是25%；模拟商品八折；比较50%和1/2。 80%的电量意思是什么？100%等于多少？">
+       <div class="topic-top"><span class="index">N24</span><h3>百分数与折扣</h3><span class="tag advanced">高年级</span><span class="grade">6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>百分数表示“每100份中多少份”，本质是比率而非单独的数量。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>100格方纸涂25格是25%；模拟商品八折；比较50%和1/2。</p></div><div><span class="pill">可以问孩子</span><p class="question">“80%的电量意思是什么？100%等于多少？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能用百格图和生活语言解释百分数。</p><p><b>避免误区：</b>把30%直接当30元或30人。</p></div></div>
+       </article><article class="topic" id="N25" data-stage="高年级" data-search="比、比例与比例尺 比表达两个量之间的关系；比例表示两个比相等。 调果汁1份浓缩液配4份水；双倍制作；用地图比例尺估算距离。 配方翻倍后，味道为什么差不多？">
+       <div class="topic-top"><span class="index">N25</span><h3>比、比例与比例尺</h3><span class="tag advanced">高年级</span><span class="grade">5–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>比表达两个量之间的关系；比例表示两个比相等。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>调果汁1份浓缩液配4份水；双倍制作；用地图比例尺估算距离。</p></div><div><span class="pill">可以问孩子</span><p class="question">“配方翻倍后，味道为什么差不多？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能区分增加固定数量与按倍数放大。</p><p><b>避免误区：</b>在未理解“每份”之前机械交叉相乘。</p></div></div>
+       </article><article class="topic" id="N26" data-stage="稍后学习" data-search="字母表示数与简单方程 用x表示未知量或变化的量，等式两边要保持平衡。 天平左右放等重积木模拟x+3=8，左右同时拿3块。 x+3=8为什么两边都可以减3？">
+       <div class="topic-top"><span class="index">N26</span><h3>字母表示数与简单方程</h3><span class="tag later">稍后学习</span><span class="grade">5–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>用x表示未知量或变化的量，等式两边要保持平衡。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>天平左右放等重积木模拟x+3=8，左右同时拿3块。</p></div><div><span class="pill">可以问孩子</span><p class="question">“x+3=8为什么两边都可以减3？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>会用语言、图画解释简单方程。</p><p><b>避免误区：</b>提前追求移项术语与复杂方程。</p></div></div>
+       </article><article class="topic" id="N27" data-stage="高年级" data-search="数量关系：单价、速度、工作效率 每份多少×份数=总数等模型可迁移到购物、行程等情境。 单价4元买3个；之后迁移到每小时走4千米走3小时；画表区分单位。 如果总价24元，单价6元，买了几个？">
+       <div class="topic-top"><span class="index">N27</span><h3>数量关系：单价、速度、工作效率</h3><span class="tag advanced">高年级</span><span class="grade">3–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>每份多少×份数=总数等模型可迁移到购物、行程等情境。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>单价4元买3个；之后迁移到每小时走4千米走3小时；画表区分单位。</p></div><div><span class="pill">可以问孩子</span><p class="question">“如果总价24元，单价6元，买了几个？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能认清各量的含义与单位。</p><p><b>避免误区：</b>把单位不一致的数字直接相乘。</p></div></div>
+       </article></div></section><section class="knowledge-section" id="sec2"><div class="section-heading"><span class="section-number">02</span><div><div class="eyebrow">图形与几何 · 17个知识点</div><h2>二、图形与几何：把数学“摸出来”</h2></div></div><p class="section-caption">每个知识点都包含概念、亲子活动、提问方式、掌握标志和常见误区。</p><div class="card-stack"><article class="topic" id="G01" data-stage="现在重点" data-search="平面图形与形状分类 圆、三角形、长方形、正方形等；按边、角特征辨认。 在家找图形，剪纸分类；把正方形斜放，观察它仍是正方形。 四条边都一样长的图形一定是正方形吗？">
+       <div class="topic-top"><span class="index">G01</span><h3>平面图形与形状分类</h3><span class="tag primary">现在重点</span><span class="grade">1–2年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>圆、三角形、长方形、正方形等；按边、角特征辨认。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>在家找图形，剪纸分类；把正方形斜放，观察它仍是正方形。</p></div><div><span class="pill">可以问孩子</span><p class="question">“四条边都一样长的图形一定是正方形吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能说出形状特征，而不是只认常见朝向。</p><p><b>避免误区：</b>只凭颜色、方向或像不像命名图形。</p></div></div>
+       </article><article class="topic" id="G02" data-stage="现在重点" data-search="立体图形和从不同方向观察 正方体、长方体、圆柱、圆锥、球；面、棱、顶点及视角。 用积木与纸盒摸一摸；换位置观察同一建筑积木，从前面和上面画样子。 球能滚，立方体通常怎么放？纸箱正面和侧面一样吗？">
+       <div class="topic-top"><span class="index">G02</span><h3>立体图形和从不同方向观察</h3><span class="tag primary">现在重点</span><span class="grade">1–3年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>正方体、长方体、圆柱、圆锥、球；面、棱、顶点及视角。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用积木与纸盒摸一摸；换位置观察同一建筑积木，从前面和上面画样子。</p></div><div><span class="pill">可以问孩子</span><p class="question">“球能滚，立方体通常怎么放？纸箱正面和侧面一样吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能辨认常见立体，知道二维图是立体的不同视图。</p><p><b>避免误区：</b>只看图片背名称。</p></div></div>
+       </article><article class="topic" id="G03" data-stage="现在重点" data-search="空间方位与路线 前后左右、上下、东南西北；以参照物描述位置。 在家做藏宝游戏：“向前两步右转”；把简单房间地图画在纸上。 站在对面以后，“我的左边”变了吗？">
+       <div class="topic-top"><span class="index">G03</span><h3>空间方位与路线</h3><span class="tag primary">现在重点</span><span class="grade">1–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>前后左右、上下、东南西北；以参照物描述位置。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>在家做藏宝游戏：“向前两步右转”；把简单房间地图画在纸上。</p></div><div><span class="pill">可以问孩子</span><p class="question">“站在对面以后，“我的左边”变了吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能说明“相对于谁”的方向，并画简单路线。</p><p><b>避免误区：</b>没有参照系时死记方向。</p></div></div>
+       </article><article class="topic" id="G04" data-stage="现在重点" data-search="长度与尺子、单位 厘米、米、毫米、分米、千米以及合适单位的选择。 先用手掌、积木比长短，再用尺子量铅笔；故意从尺子的3厘米处开始测。 3cm到9cm之间的长度是多少？">
+       <div class="topic-top"><span class="index">G04</span><h3>长度与尺子、单位</h3><span class="tag primary">现在重点</span><span class="grade">1–3年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>厘米、米、毫米、分米、千米以及合适单位的选择。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>先用手掌、积木比长短，再用尺子量铅笔；故意从尺子的3厘米处开始测。</p></div><div><span class="pill">可以问孩子</span><p class="question">“3cm到9cm之间的长度是多少？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>知道测量的是两个刻度间的距离，不是末端数字。</p><p><b>避免误区：</b>误以为必须从刻度1起量。</p></div></div>
+       </article><article class="topic" id="G05" data-stage="现在体验" data-search="线段、直线、射线 线段有两个端点；射线一个端点；直线向两端无限延伸。 用绳线与手电光束作比喻，画端点；说明只是帮助想象。 桌边像哪一种线？为什么不是严格的直线？">
+       <div class="topic-top"><span class="index">G05</span><h3>线段、直线、射线</h3><span class="tag explore">现在体验</span><span class="grade">3–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>线段有两个端点；射线一个端点；直线向两端无限延伸。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用绳线与手电光束作比喻，画端点；说明只是帮助想象。</p></div><div><span class="pill">可以问孩子</span><p class="question">“桌边像哪一种线？为什么不是严格的直线？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能在图上区分端点并说明伸展方向。</p><p><b>避免误区：</b>把有限的绳子误当真正无穷直线。</p></div></div>
+       </article><article class="topic" id="G06" data-stage="现在体验" data-search="角、直角和角度测量 角由两条从同一点出发的射线组成；大小取决于张开程度，与边画多长无关。 用两根冰棒棍做可开合的角；找门角、书角；后续用量角器。 把两条角边延长，角会变大吗？">
+       <div class="topic-top"><span class="index">G06</span><h3>角、直角和角度测量</h3><span class="tag explore">现在体验</span><span class="grade">2–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>角由两条从同一点出发的射线组成；大小取决于张开程度，与边画多长无关。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用两根冰棒棍做可开合的角；找门角、书角；后续用量角器。</p></div><div><span class="pill">可以问孩子</span><p class="question">“把两条角边延长，角会变大吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能区分锐角、直角、钝角，并解释开口大小。</p><p><b>避免误区：</b>把角边更长看成角更大。</p></div></div>
+       </article><article class="topic" id="G07" data-stage="稍后学习" data-search="平行、垂直与四边形 同平面内平行线不相交；垂直成直角；四边形按性质分类。 在方格纸画铁轨和路口；用三角板检查门框是否垂直。 正方形也是长方形吗？平行四边形一定有直角吗？">
+       <div class="topic-top"><span class="index">G07</span><h3>平行、垂直与四边形</h3><span class="tag later">稍后学习</span><span class="grade">3–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>同平面内平行线不相交；垂直成直角；四边形按性质分类。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>在方格纸画铁轨和路口；用三角板检查门框是否垂直。</p></div><div><span class="pill">可以问孩子</span><p class="question">“正方形也是长方形吗？平行四边形一定有直角吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能按定义说明长方形、正方形等关系。</p><p><b>避免误区：</b>把图形分类当互不相关的名称表。</p></div></div>
+       </article><article class="topic" id="G08" data-stage="现在体验" data-search="周长：沿边绕一圈 周长是平面图形边界总长度。 用线绕书本边缘一圈，再拉直量长度；摆3×4单位格长方形数外圈。 长4宽3的长方形，绕一圈多长？">
+       <div class="topic-top"><span class="index">G08</span><h3>周长：沿边绕一圈</h3><span class="tag explore">现在体验</span><span class="grade">3年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>周长是平面图形边界总长度。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用线绕书本边缘一圈，再拉直量长度；摆3×4单位格长方形数外圈。</p></div><div><span class="pill">可以问孩子</span><p class="question">“长4宽3的长方形，绕一圈多长？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>会区分边界与内部区域。</p><p><b>避免误区：</b>误把周长等于面积。</p></div></div>
+       </article><article class="topic" id="G09" data-stage="现在体验" data-search="面积：铺满多少小方格 面积表示占据平面的大小；常用平方厘米、平方米。 先用相同方格拼满长方形，数出3行每行4格，共12格，再归纳长×宽。 长4格宽3格，为什么面积是12格？">
+       <div class="topic-top"><span class="index">G09</span><h3>面积：铺满多少小方格</h3><span class="tag explore">现在体验</span><span class="grade">3–5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>面积表示占据平面的大小；常用平方厘米、平方米。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>先用相同方格拼满长方形，数出3行每行4格，共12格，再归纳长×宽。</p></div><div><span class="pill">可以问孩子</span><p class="question">“长4格宽3格，为什么面积是12格？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能通过铺格解释公式，而不只是背。</p><p><b>避免误区：</b>把4+3或周长当面积。</p></div></div>
+       </article><article class="topic" id="G10" data-stage="稍后学习" data-search="三角形性质和分类 按角或边分类；三角形内角和180°；三边之和关系。 用纸剪3个角拼成平角；拿3根长短不同小棒尝试拼三角形。 1、2、4厘米的三根棒能拼成三角形吗？">
+       <div class="topic-top"><span class="index">G10</span><h3>三角形性质和分类</h3><span class="tag later">稍后学习</span><span class="grade">4–5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>按角或边分类；三角形内角和180°；三边之和关系。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用纸剪3个角拼成平角；拿3根长短不同小棒尝试拼三角形。</p></div><div><span class="pill">可以问孩子</span><p class="question">“1、2、4厘米的三根棒能拼成三角形吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能通过操作验证分类和基本性质。</p><p><b>避免误区：</b>仅记内角和而没见过拼接证据。</p></div></div>
+       </article><article class="topic" id="G11" data-stage="高年级" data-search="平行四边形、三角形、梯形面积 通过剪拼与转化得到面积公式：平行四边形底×高、三角形底×高÷2。 把平行四边形剪拼成长方形；两块相同三角形拼成一个平行四边形。 为什么三角形面积要除以2？">
+       <div class="topic-top"><span class="index">G11</span><h3>平行四边形、三角形、梯形面积</h3><span class="tag advanced">高年级</span><span class="grade">5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>通过剪拼与转化得到面积公式：平行四边形底×高、三角形底×高÷2。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>把平行四边形剪拼成长方形；两块相同三角形拼成一个平行四边形。</p></div><div><span class="pill">可以问孩子</span><p class="question">“为什么三角形面积要除以2？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能指认底与对应的高，讲出公式来源。</p><p><b>避免误区：</b>把斜边直接误当高。</p></div></div>
+       </article><article class="topic" id="G12" data-stage="现在重点" data-search="轴对称、平移、旋转 形状大小不变的几种变换；对称轴两边可重合。 折纸剪蝴蝶；把纸片在方格上平移；转动箭头并比较其方向。 一个正方形有几条对称轴？">
+       <div class="topic-top"><span class="index">G12</span><h3>轴对称、平移、旋转</h3><span class="tag primary">现在重点</span><span class="grade">2–5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>形状大小不变的几种变换；对称轴两边可重合。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>折纸剪蝴蝶；把纸片在方格上平移；转动箭头并比较其方向。</p></div><div><span class="pill">可以问孩子</span><p class="question">“一个正方形有几条对称轴？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能在实物中找变换并按方格描述。</p><p><b>避免误区：</b>把镜像翻折和单纯旋转混为一谈。</p></div></div>
+       </article><article class="topic" id="G13" data-stage="稍后学习" data-search="长方体与正方体展开图 立体的表面可展开成平面图；认识六个面和邻接关系。 拆开饼干盒，描摹展开图；画六个正方形，尝试折成纸立方体。 不是所有六个正方形拼法都能折成正方体吗？">
+       <div class="topic-top"><span class="index">G13</span><h3>长方体与正方体展开图</h3><span class="tag later">稍后学习</span><span class="grade">5–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>立体的表面可展开成平面图；认识六个面和邻接关系。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>拆开饼干盒，描摹展开图；画六个正方形，尝试折成纸立方体。</p></div><div><span class="pill">可以问孩子</span><p class="question">“不是所有六个正方形拼法都能折成正方体吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能想象平面折叠、识别相邻和相对的面。</p><p><b>避免误区：</b>只背“11种展开图”而不做折叠。</p></div></div>
+       </article><article class="topic" id="G14" data-stage="高年级" data-search="长方体的表面积与体积 表面积是外表各面面积总和；体积是占据空间的大小。 用单位小立方体搭3×2×4的盒形，数层与总块数；用纸包盒子体会表面积。 纸盒用多少纸和里面能放多少块积木是同一问题吗？">
+       <div class="topic-top"><span class="index">G14</span><h3>长方体的表面积与体积</h3><span class="tag advanced">高年级</span><span class="grade">5–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>表面积是外表各面面积总和；体积是占据空间的大小。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用单位小立方体搭3×2×4的盒形，数层与总块数；用纸包盒子体会表面积。</p></div><div><span class="pill">可以问孩子</span><p class="question">“纸盒用多少纸和里面能放多少块积木是同一问题吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能区别平方单位与立方单位，并解释长×宽×高。</p><p><b>避免误区：</b>体积单位写成平方厘米。</p></div></div>
+       </article><article class="topic" id="G15" data-stage="高年级" data-search="圆与圆周率、周长、面积 圆心、半径、直径；圆周长与直径有固定比π，面积为πr²。 绳子量不同圆盖周长，除以直径观察接近3.14；切拼圆片感受面积。 直径加倍，圆周长如何变？面积如何变？">
+       <div class="topic-top"><span class="index">G15</span><h3>圆与圆周率、周长、面积</h3><span class="tag advanced">高年级</span><span class="grade">6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>圆心、半径、直径；圆周长与直径有固定比π，面积为πr²。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>绳子量不同圆盖周长，除以直径观察接近3.14；切拼圆片感受面积。</p></div><div><span class="pill">可以问孩子</span><p class="question">“直径加倍，圆周长如何变？面积如何变？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能说清半径、直径与π的关系。</p><p><b>避免误区：</b>把π误当恰好等于3.14。</p></div></div>
+       </article><article class="topic" id="G16" data-stage="高年级" data-search="圆柱、圆锥与容积 圆柱体积=底面积×高；同底等高圆锥体积为圆柱的1/3。 用等底等高容器倒米或沙子实验，记录约几次倒满圆柱。 圆锥与圆柱底、高都相同，容量有什么关系？">
+       <div class="topic-top"><span class="index">G16</span><h3>圆柱、圆锥与容积</h3><span class="tag advanced">高年级</span><span class="grade">6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>圆柱体积=底面积×高；同底等高圆锥体积为圆柱的1/3。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用等底等高容器倒米或沙子实验，记录约几次倒满圆柱。</p></div><div><span class="pill">可以问孩子</span><p class="question">“圆锥与圆柱底、高都相同，容量有什么关系？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能用实验及计算解释基本体积关系。</p><p><b>避免误区：</b>忽略“同底等高”条件。</p></div></div>
+       </article><article class="topic" id="G17" data-stage="稍后学习" data-search="方格定位、数对和比例尺 用两个位置参数标定点；比例尺描述图上距离和实际距离关系。 在方格地图上找(列,行)，设计寻宝图；后续用1厘米代表100米画路线。 (2,4)和(4,2)是不是同一个点？">
+       <div class="topic-top"><span class="index">G17</span><h3>方格定位、数对和比例尺</h3><span class="tag later">稍后学习</span><span class="grade">4–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>用两个位置参数标定点；比例尺描述图上距离和实际距离关系。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>在方格地图上找(列,行)，设计寻宝图；后续用1厘米代表100米画路线。</p></div><div><span class="pill">可以问孩子</span><p class="question">“(2,4)和(4,2)是不是同一个点？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能说清坐标约定和图上实际长度换算。</p><p><b>避免误区：</b>把行列顺序混淆。</p></div></div>
+       </article></div></section><section class="knowledge-section" id="sec3"><div class="section-heading"><span class="section-number">03</span><div><div class="eyebrow">统计与概率 · 6个知识点</div><h2>三、统计与概率：让孩子学会用数据说话</h2></div></div><p class="section-caption">每个知识点都包含概念、亲子活动、提问方式、掌握标志和常见误区。</p><div class="card-stack"><article class="topic" id="S01" data-stage="现在重点" data-search="分类与计数 按同一标准把东西分类，并记录各类数量。 把玩具按颜色分类，再按形状分类；画“正字”或小图标计数。 同一个玩具，换标准后会分到别的组吗？">
+       <div class="topic-top"><span class="index">S01</span><h3>分类与计数</h3><span class="tag primary">现在重点</span><span class="grade">1–2年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>按同一标准把东西分类，并记录各类数量。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>把玩具按颜色分类，再按形状分类；画“正字”或小图标计数。</p></div><div><span class="pill">可以问孩子</span><p class="question">“同一个玩具，换标准后会分到别的组吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>会说分类标准，计数不重不漏。</p><p><b>避免误区：</b>把颜色、大小、材质混成一个分类标准。</p></div></div>
+       </article><article class="topic" id="S02" data-stage="现在重点" data-search="简单统计表和条形图 把收集到的数据用表格或长度表示，便于比较。 统计家人最爱水果、连续7天的天气，画一格代表1次的条形图。 苹果比香蕉多几票？总共调查几个人？">
+       <div class="topic-top"><span class="index">S02</span><h3>简单统计表和条形图</h3><span class="tag primary">现在重点</span><span class="grade">2–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>把收集到的数据用表格或长度表示，便于比较。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>统计家人最爱水果、连续7天的天气，画一格代表1次的条形图。</p></div><div><span class="pill">可以问孩子</span><p class="question">“苹果比香蕉多几票？总共调查几个人？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>会看图例、横纵轴，知道每格代表什么。</p><p><b>避免误区：</b>没有标题和单位便直接比较柱高。</p></div></div>
+       </article><article class="topic" id="S03" data-stage="稍后学习" data-search="平均数 平均数表示一组数的集中水平，不一定是某个实际出现的数据。 三天读书4、6、8页，拿18个豆子重新平均摆3堆。 三天平均每天读几页？有没有一天刚好读6页？">
+       <div class="topic-top"><span class="index">S03</span><h3>平均数</h3><span class="tag later">稍后学习</span><span class="grade">3–5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>平均数表示一组数的集中水平，不一定是某个实际出现的数据。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>三天读书4、6、8页，拿18个豆子重新平均摆3堆。</p></div><div><span class="pill">可以问孩子</span><p class="question">“三天平均每天读几页？有没有一天刚好读6页？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能解释“总量平均分”，不只是套公式。</p><p><b>避免误区：</b>把平均数误当最多的数。</p></div></div>
+       </article><article class="topic" id="S04" data-stage="稍后学习" data-search="折线图与变化趋势 用点和线呈现连续时间上的增减变化。 每天同一时间记录植物高度，画点连线；比较哪天增长最快。 哪一段上升最快？为什么？">
+       <div class="topic-top"><span class="index">S04</span><h3>折线图与变化趋势</h3><span class="tag later">稍后学习</span><span class="grade">4–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>用点和线呈现连续时间上的增减变化。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>每天同一时间记录植物高度，画点连线；比较哪天增长最快。</p></div><div><span class="pill">可以问孩子</span><p class="question">“哪一段上升最快？为什么？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能关注横轴刻度与实际变化量。</p><p><b>避免误区：</b>只说曲线高低，不看刻度。</p></div></div>
+       </article><article class="topic" id="S05" data-stage="高年级" data-search="扇形图与百分比数据 一个圆代表整体，不同扇区表示部分占整体的比例。 全家一周运动时间按项目汇总，先换成百分比再画扇形。 足球占25%，相当于整个圆的多少？">
+       <div class="topic-top"><span class="index">S05</span><h3>扇形图与百分比数据</h3><span class="tag advanced">高年级</span><span class="grade">6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>一个圆代表整体，不同扇区表示部分占整体的比例。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>全家一周运动时间按项目汇总，先换成百分比再画扇形。</p></div><div><span class="pill">可以问孩子</span><p class="question">“足球占25%，相当于整个圆的多少？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>会把比例理解为部分与整体关系。</p><p><b>避免误区：</b>把多个项目百分比相加不是100%也不检查。</p></div></div>
+       </article><article class="topic" id="S06" data-stage="现在体验" data-search="可能性与简单随机现象 一定、可能、不可能；某些结果更容易发生。 袋中放3红1蓝积木，闭眼抽取、放回，试20次并记录频数。 更容易抽到什么颜色？抽5次一定有蓝色吗？">
+       <div class="topic-top"><span class="index">S06</span><h3>可能性与简单随机现象</h3><span class="tag explore">现在体验</span><span class="grade">3–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>一定、可能、不可能；某些结果更容易发生。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>袋中放3红1蓝积木，闭眼抽取、放回，试20次并记录频数。</p></div><div><span class="pill">可以问孩子</span><p class="question">“更容易抽到什么颜色？抽5次一定有蓝色吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>会区分“更可能”与“必然”。</p><p><b>避免误区：</b>认为概率大就一定发生。</p></div></div>
+       </article></div></section><section class="knowledge-section" id="sec4"><div class="section-heading"><span class="section-number">04</span><div><div class="eyebrow">综合实践 · 9个知识点</div><h2>四、综合实践与思维：把知识带进生活</h2></div></div><p class="section-caption">每个知识点都包含概念、亲子活动、提问方式、掌握标志和常见误区。</p><div class="card-stack"><article class="topic" id="P01" data-stage="现在重点" data-search="钟表、日历、时间间隔 整点半点、时分秒、年月日；时间点和持续时间不同。 做纸盘钟，拨出7:30；计时一首歌；在日历上算距离生日还有几天。 3:40再过25分钟几点？">
+       <div class="topic-top"><span class="index">P01</span><h3>钟表、日历、时间间隔</h3><span class="tag primary">现在重点</span><span class="grade">1–3年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>整点半点、时分秒、年月日；时间点和持续时间不同。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>做纸盘钟，拨出7:30；计时一首歌；在日历上算距离生日还有几天。</p></div><div><span class="pill">可以问孩子</span><p class="question">“3:40再过25分钟几点？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能借钟面说明跨整点的时间变化。</p><p><b>避免误区：</b>直接背60进制换算但不看钟面。</p></div></div>
+       </article><article class="topic" id="P02" data-stage="现在重点" data-search="人民币、找零、预算 不同币值等量兑换；购买、总价、余额与找零。 开“玩具商店”，标价3元、7元、12元；用纸币/硬币购物并算找零。 带20元买7元和8元的东西，还剩多少？">
+       <div class="topic-top"><span class="index">P02</span><h3>人民币、找零、预算</h3><span class="tag primary">现在重点</span><span class="grade">1–4年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>不同币值等量兑换；购买、总价、余额与找零。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>开“玩具商店”，标价3元、7元、12元；用纸币/硬币购物并算找零。</p></div><div><span class="pill">可以问孩子</span><p class="question">“带20元买7元和8元的东西，还剩多少？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能说明算式与真实购买行为对应。</p><p><b>避免误区：</b>把“减去总价”与“加上找零”混淆。</p></div></div>
+       </article><article class="topic" id="P03" data-stage="现在重点" data-search="质量、容量与单位 克、千克、吨；毫升、升；单位与测量工具相关。 厨房秤量水果，量杯倒水，比较500毫升瓶子和1升瓶子。 一个苹果更可能重200克还是200千克？">
+       <div class="topic-top"><span class="index">P03</span><h3>质量、容量与单位</h3><span class="tag primary">现在重点</span><span class="grade">2–5年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>克、千克、吨；毫升、升；单位与测量工具相关。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>厨房秤量水果，量杯倒水，比较500毫升瓶子和1升瓶子。</p></div><div><span class="pill">可以问孩子</span><p class="question">“一个苹果更可能重200克还是200千克？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能选合理单位和估计数量级。</p><p><b>避免误区：</b>只机械换算不懂实际量感。</p></div></div>
+       </article><article class="topic" id="P04" data-stage="现在重点" data-search="规律、分类和模式 寻找重复、递增、递减及“输入—输出”关系。 用红蓝黄重复串珠；数列2、5、8、11；用一张表格记录变化。 2、5、8、11，下一个为什么是14？能想出另一种规则吗？">
+       <div class="topic-top"><span class="index">P04</span><h3>规律、分类和模式</h3><span class="tag primary">现在重点</span><span class="grade">1–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>寻找重复、递增、递减及“输入—输出”关系。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>用红蓝黄重复串珠；数列2、5、8、11；用一张表格记录变化。</p></div><div><span class="pill">可以问孩子</span><p class="question">“2、5、8、11，下一个为什么是14？能想出另一种规则吗？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能描述规则，并意识到少量数字可能有多种规律。</p><p><b>避免误区：</b>仅要求报下一个答案，不要求讲理由。</p></div></div>
+       </article><article class="topic" id="P05" data-stage="现在重点" data-search="逻辑推理与逆向思考 从条件出发逐步排除，或由结果反推未知数。 三种颜色盒子与三个线索配对；玩“我想一个数，加5等于12”。 如果A比B高，B比C高，谁最高？">
+       <div class="topic-top"><span class="index">P05</span><h3>逻辑推理与逆向思考</h3><span class="tag primary">现在重点</span><span class="grade">1–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>从条件出发逐步排除，或由结果反推未知数。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>三种颜色盒子与三个线索配对；玩“我想一个数，加5等于12”。</p></div><div><span class="pill">可以问孩子</span><p class="question">“如果A比B高，B比C高，谁最高？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能分辨已知条件和推断，并说出依据。</p><p><b>避免误区：</b>把推理题变成纯猜谜。</p></div></div>
+       </article><article class="topic" id="P06" data-stage="现在重点" data-search="解应用题：画图与提问 先找已知、所求和数量关系，再决定算式。 把题目画成线段/物品；“小猫有8条鱼，比小狗多3条”先画图再问小狗几条。 题目说比小狗多3条，应该加3还是减3，为什么？">
+       <div class="topic-top"><span class="index">P06</span><h3>解应用题：画图与提问</h3><span class="tag primary">现在重点</span><span class="grade">1–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>先找已知、所求和数量关系，再决定算式。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>把题目画成线段/物品；“小猫有8条鱼，比小狗多3条”先画图再问小狗几条。</p></div><div><span class="pill">可以问孩子</span><p class="question">“题目说比小狗多3条，应该加3还是减3，为什么？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能解释题意、单位、答案是否合理。</p><p><b>避免误区：</b>看到“多”就加、看到“少”就减。</p></div></div>
+       </article><article class="topic" id="P07" data-stage="现在体验" data-search="搭配、排列和枚举 系统列举所有可能，避免重复或遗漏。 两件上衣、三条裤子做“穿搭”卡片；画树状图数出6种。 有什么办法保证每一套都算过、没有算两次？">
+       <div class="topic-top"><span class="index">P07</span><h3>搭配、排列和枚举</h3><span class="tag explore">现在体验</span><span class="grade">2–6年级拓展</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>系统列举所有可能，避免重复或遗漏。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>两件上衣、三条裤子做“穿搭”卡片；画树状图数出6种。</p></div><div><span class="pill">可以问孩子</span><p class="question">“有什么办法保证每一套都算过、没有算两次？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>有条理地列表/画图找全方案。</p><p><b>避免误区：</b>仅凭直觉随意列举。</p></div></div>
+       </article><article class="topic" id="P08" data-stage="现在重点" data-search="生活项目：测量与小设计 综合使用长度、估算、计算、数据和表达。 制作房间平面图：量桌面、算周长，选购桌垫；或规划家庭种植角。 桌垫长宽应比桌面多大，才能盖住桌面？">
+       <div class="topic-top"><span class="index">P08</span><h3>生活项目：测量与小设计</h3><span class="tag primary">现在重点</span><span class="grade">1–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>综合使用长度、估算、计算、数据和表达。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>制作房间平面图：量桌面、算周长，选购桌垫；或规划家庭种植角。</p></div><div><span class="pill">可以问孩子</span><p class="question">“桌垫长宽应比桌面多大，才能盖住桌面？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能把多个概念用于一个真实任务。</p><p><b>避免误区：</b>为了“做题”而设计脱离生活的问题。</p></div></div>
+       </article><article class="topic" id="P09" data-stage="稍后学习" data-search="数据判断与解释 读懂图表，识别比较条件、样本大小与异常值。 记录两个人的投篮次数和命中次数，比较“投中最多”和“命中率最高”是不是一回事。 投中6/10和8/20，哪个表现更好？">
+       <div class="topic-top"><span class="index">P09</span><h3>数据判断与解释</h3><span class="tag later">稍后学习</span><span class="grade">4–6年级</span></div>
+       <div class="topic-body"><p class="definition"><strong>核心理解</strong>读懂图表，识别比较条件、样本大小与异常值。</p>
+       <div class="lesson"><div><span class="pill">怎么教</span><p>记录两个人的投篮次数和命中次数，比较“投中最多”和“命中率最高”是不是一回事。</p></div><div><span class="pill">可以问孩子</span><p class="question">“投中6/10和8/20，哪个表现更好？”</p></div></div>
+       <div class="checkrow"><p><b>掌握标志：</b>能追问“比较的基数是否一样”。</p><p><b>避免误区：</b>仅凭数字绝对大小下结论。</p></div></div>
+       </article></div></section>
+<section class="intro" id="plan"><div class="eyebrow">实施安排</div><h2>12周弹性学习路线：每周3～5次，每次10～20分钟</h2><p class="muted">以孩子的反应为准；某一阶段需要更长时间时完全可以延后。每周至少有一次几何或生活数学活动。</p><div class="schedule"><div class="phase"><span class="time">第1–4周</span><h3>数位和加减的“为什么”</h3><ul><li>位值卡、小棒捆十</li><li>千与万的读写及比较</li><li>凑整、估算、未知数方框</li><li>几何：形状分类、尺子与方位</li></ul><p><b>核心验收：</b>能拆数、讲清进退位，能测量简单物品。</p></div><div class="phase"><span class="time">第5–8周</span><h3>乘法不是背口诀</h3><ul><li>相同的几组和阵列</li><li>2、5、10，再逐渐拓展口诀</li><li>倍的关系与平均分</li><li>几何：对称、周长与拼图</li></ul><p><b>核心验收：</b>能把一则乘法题摆出来、画出来、讲出来。</p></div><div class="phase"><span class="time">第9–12周</span><h3>从乘法走向除法</h3><ul><li>平均分 / 每组几个</li><li>简单余数，购物问题</li><li>分纸条、认识1/2和0.5</li><li>温度数轴、简单统计图</li></ul><p><b>核心验收：</b>能在真实场景中分物、判断“整体”与“份”。</p></div></div><div class="note"><b>一个实用判断标准：</b>每个知识点都问四件事：孩子能否用物品表示？能否用自己的话解释？换个题目还能用？是否保持探索兴趣？满足这些，比硬性的“第几周学完”更有参考价值。</div></section>
+<section class="intro" id="references"><div class="eyebrow">资料来源与适用说明</div><h2>课程参考与边界</h2><p>核心结构参考中华人民共和国教育部《义务教育数学课程标准（2022年版）》。本手册是面向家长的教学转写，示例、学习阶段标签和12周计划是家庭教学建议，不是教育部官方逐课教案。</p><div class="ref"><p><b>教育部关于印发义务教育课程方案和课程标准（2022年版）的通知：</b><br><a href="https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html">https://www.moe.gov.cn/srcsite/A26/s8001/202204/t20220420_619921.html</a></p><p><b>教育部课程教材研究所·义务教育课程标准目录：</b><br><a href="https://www.ictr.edu.cn/download_center/ywjy.html">https://www.ictr.edu.cn/download_center/ywjy.html</a></p></div><p class="muted">离线阅读不需要网络，以上链接仅供以后查证原始标准；若离线点击链接则需要连接网络。</p></section>
+<div class="footer">家庭数学学习手册 · 59个知识点 · HTML单文件离线版 · 2026年10月整理</div>
+</main></div>
+<script>
+(function(){
+const input=document.getElementById('search'),select=document.getElementById('stage'),cards=[...document.querySelectorAll('.topic')],res=document.getElementById('result');
+function apply(){let q=input.value.trim().toLocaleLowerCase(),stage=select.value,count=0;for(const c of cards){let ok=(!q||c.dataset.search.toLocaleLowerCase().includes(q))&&(stage==='全部'||c.dataset.stage===stage);c.style.display=ok?'':'none';if(ok)count++;}res.textContent='显示 '+count+' / '+cards.length+' 项';for(const section of document.querySelectorAll('.knowledge-section')){section.style.display=[...section.querySelectorAll('.topic')].some(c=>c.style.display!=='none')?'':'none';}}
+input.addEventListener('input',apply);select.addEventListener('change',apply);document.getElementById('clear').addEventListener('click',()=>{input.value='';select.value='全部';apply();});document.getElementById('print').addEventListener('click',()=>{input.value='';select.value='全部';apply();window.print();});
+window.addEventListener('beforeprint',()=>{for(const c of cards)c.style.display='';for(const s of document.querySelectorAll('.knowledge-section'))s.style.display='';});
+})();
+</script>
+</body></html>
