@@ -73,7 +73,7 @@ audio_content = f'''<!doctype html>
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>音频索引:听CleoYCunquin BenHolly_西</title>
+  <title>音频索引</title>
   <style>
     :root {{ color-scheme: light; font-family: system-ui, -apple-system, "Segoe UI", sans-serif; }}
     * {{ box-sizing: border-box; }}
@@ -91,7 +91,7 @@ audio_content = f'''<!doctype html>
 </head>
 <body>
   <main>
-    <h1>音频索引</h1>
+    <h1>音频索引 : :听CleoYCunquin BenHolly_西 </h1>
     <div class="cards">
 {card_html}
     </div>
