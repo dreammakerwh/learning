@@ -4,7 +4,7 @@ from html import escape
 from pathlib import Path
 
 folder = Path(__file__).resolve().parent
-navigation = folder / "导航.html"
+navigation = folder / "index.html"
 pages = sorted(
     (p for p in folder.iterdir()
      if p.is_file() and p.suffix.lower() in {".html", ".htm"}
