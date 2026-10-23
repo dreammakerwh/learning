@@ -67,7 +67,7 @@ card_html = "\n".join(
     </section>'''
     for title, files in cards
 )
-audio_index = folder / "收音机音频索引.html"
+audio_index = folder / "00-收音机音频索引.html"
 audio_content = f'''<!doctype html>
 <html lang="zh-CN">
 <head>
