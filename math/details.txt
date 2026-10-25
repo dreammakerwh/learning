@@ -728,708 +728,708 @@ MagicTreeHouse (起始索引: 1074, 文件数量: 4)
   1404. 2x9-11 The Flying Machine.mp3
   1405. 2x9-12 Key Trouble.mp3
 
-CleoYCunquin西语 (起始索引: 1406, 文件数量: 78)
-  1406. 01 - El estreno - 首映.mp3
-  1407. 02 - Atrapafantasma - 捉鬼达人.mp3
-  1408. 03 - Paseando a Pelusín - 带毛球散步.mp3
-  1409. 04 - Monstruas - 怪兽.mp3
-  1410. 05 - Doublé plié - 双起立小踢腿.mp3
-  1411. 06 - Elemental querida Colitas - 元素小姐与小尾巴.mp3
-  1412. 07 - Magic Cleo - 魔法可鲁.mp3
-  1413. 08 - El campeonato - 锦标赛.mp3
-  1414. 09 - La flor - 那朵花.mp3
-  1415. 10 - El diente volador - 飞牙.mp3
-  1416. 11 - Un día en la playa - 海滩的一天.mp3
-  1417. 12 - Lluvia de estrellas - 流星雨.mp3
-  1418. 13 - Superhéroes - 超级英雄.mp3
-  1419. 14 - Un día de sastre - 裁缝的一天.mp3
-  1420. 15 - Excavando - 挖掘.mp3
-  1421. 16 - Mi pequeña gran banda - 我的小小大乐队.mp3
-  1422. 17 - Suspenso en gimnasia - 体育课晕倒.mp3
-  1423. 18 - Fantasma enamorado - 恋爱的鬼魂.mp3
-  1424. 19 - La colmena - 蜂巢.mp3
-  1425. 20 - El proyecto de Teté - 特特的计划.mp3
-  1426. 21 - La pelota - 球.mp3
-  1427. 22 - El primer día de primavera - 第一个春天.mp3
-  1428. 23 - Feliz cumpleaños - 生日快乐.mp3
-  1429. 24 - La bici nueva - 新自行车.mp3
-  1430. 25 - El partidazo - 那场球赛.mp3
-  1431. 26 - Atrapado por las flores - 被花困住.mp3
-  1432. 27 - El accidente - 意外.mp3
-  1433. 28 - Una tarde de tele - 一个电视下午.mp3
-  1434. 29 - Por las ramas - 在树枝间.mp3
-  1435. 30 - Día de Navidad - 圣诞节.mp3
-  1436. 31 - El misterio de las verduras - 蔬菜谜案.mp3
-  1437. 32 - La carrera - 赛跑.mp3
-  1438. 33 - La helada - 冰冻.mp3
-  1439. 34 - Juguete-emergencias - 玩具急救队.mp3
-  1440. 35 - Al cole - 上学去.mp3
-  1441. 36 - ¿Me traes mi juguete？ - 能帮我拿玩具吗？.mp3
-  1442. 37 - ¡Quiero un zumo! - 我想要果汁！.mp3
-  1443. 38 - El álbum - 相册.mp3
-  1444. 39 - El secreto está en la pizza - 秘密在披萨里.mp3
-  1445. 40 - Aventura en el mar - 海上冒险.mp3
-  1446. 41 - ¡No quiero pintar! - 我不想画画！.mp3
-  1447. 42 - ¡Siéntate! - 坐下！.mp3
-  1448. 43 - Ella, caballera - 她是女骑士.mp3
-  1449. 44 - Todos contra Cleo - 全员对抗Cleo.mp3
-  1450. 45 - Una pesadilla de Halloween - 万圣节噩梦.mp3
-  1451. 46 - Avioncitos de papel - 纸飞机.mp3
-  1452. 47 - La leyenda del capitán garra - 坏船长加拉的传说.mp3
-  1453. 48 - El día de piscina - 泳池之日.mp3
-  1454. 49 - Policías y ladronzuelos - 警察和小偷.mp3
-  1455. 50 - Día de riego - 浇水日.mp3
-  1456. 51 - La flauta - 笛子.mp3
-  1457. 52 - ¡Que viene el lobo! - 狼来了！.mp3
-  1458. 53 - La nave - 宇宙飞船.mp3
-  1459. 54 - Búsqueda helada - 冰天雪地寻宝.mp3
-  1460. 55 - Mariesfinge - 海妖玛丽.mp3
-  1461. 56 - El huevo - 鸡蛋.mp3
-  1462. 57 - El videojuego - 电子游戏.mp3
-  1463. 58 - Goles sobre patines - 轮滑进球.mp3
-  1464. 59 - A todo hielo - 全垒打！冰上作战.mp3
-  1465. 60 - El circo de Cleo - Cleo的马戏团.mp3
-  1466. 61 - Nos vamos de vacaciones - 我们去度假.mp3
-  1467. 62 - Aventura al atardecer - 日落冒险.mp3
-  1468. 63 - La reforma - 大改造.mp3
-  1469. 64 - Nos vamos de cumple - 我们去生日会.mp3
-  1470. 65 - Las gafas de Teté - 特特的眼镜.mp3
-  1471. 66 - El gran huevo de Odín - 奥丁的大鸡蛋.mp3
-  1472. 67 - Escuela de monstruos - 怪兽学校.mp3
-  1473. 68 - Un mundo gigante - 巨大的世界.mp3
-  1474. 69 - Una nueva amiga - 新朋友.mp3
-  1475. 70 - Tesoros bajo la arena - 沙下的宝藏.mp3
-  1476. 71 - Juegos helados - 冰上游戏.mp3
-  1477. 72 - El misterio del cobertizo - 小棚屋之谜.mp3
-  1478. 73 - ¡Salvemos el bosque! - 拯救森林！.mp3
-  1479. 74 - El baile - 舞蹈.mp3
-  1480. 75 - Un pícnic en el bosque - 森林野餐.mp3
-  1481. 76 - Di patata - 说土豆.mp3
-  1482. 77 - ¡No te rasques! - 别挠我！.mp3
-  1483. 78 - El apagón - 大停电.mp3
+WolfooLucy_mp3 (起始索引: 1406, 文件数量: 16)
 
-WolfooLucy_mp3 (起始索引: 1484, 文件数量: 16)
+WolfooLucy_1.3x (起始索引: 1422, 文件数量: 16)
 
-WolfooLucy_1.3x (起始索引: 1500, 文件数量: 16)
+WolfooLucy_1.8x (起始索引: 1438, 文件数量: 16)
 
-WolfooLucy_1.8x (起始索引: 1516, 文件数量: 16)
+CleoYCunquin_1.3x (起始索引: 1454, 文件数量: 78)
+  1454. 01 - El estreno - 首映1.3x.mp3
+  1455. 02 - Atrapafantasma - 捉鬼达人1.3x.mp3
+  1456. 03 - Paseando a Pelusín - 带毛球散步1.3x.mp3
+  1457. 04 - Monstruas - 怪兽1.3x.mp3
+  1458. 05 - Doublé plié - 双起立小踢腿1.3x.mp3
+  1459. 06 - Elemental querida Colitas - 元素小姐与小尾巴1.3x.mp3
+  1460. 07 - Magic Cleo - 魔法可鲁1.3x.mp3
+  1461. 08 - El campeonato - 锦标赛1.3x.mp3
+  1462. 09 - La flor - 那朵花1.3x.mp3
+  1463. 10 - El diente volador - 飞牙1.3x.mp3
+  1464. 11 - Un día en la playa - 海滩的一天1.3x.mp3
+  1465. 12 - Lluvia de estrellas - 流星雨1.3x.mp3
+  1466. 13 - Superhéroes - 超级英雄1.3x.mp3
+  1467. 14 - Un día de sastre - 裁缝的一天1.3x.mp3
+  1468. 15 - Excavando - 挖掘1.3x.mp3
+  1469. 16 - Mi pequeña gran banda - 我的小小大乐队1.3x.mp3
+  1470. 17 - Suspenso en gimnasia - 体育课晕倒1.3x.mp3
+  1471. 18 - Fantasma enamorado - 恋爱的鬼魂1.3x.mp3
+  1472. 19 - La colmena - 蜂巢1.3x.mp3
+  1473. 20 - El proyecto de Teté - 特特的计划1.3x.mp3
+  1474. 21 - La pelota - 球1.3x.mp3
+  1475. 22 - El primer día de primavera - 第一个春天1.3x.mp3
+  1476. 23 - Feliz cumpleaños - 生日快乐1.3x.mp3
+  1477. 24 - La bici nueva - 新自行车1.3x.mp3
+  1478. 25 - El partidazo - 那场球赛1.3x.mp3
+  1479. 26 - Atrapado por las flores - 被花困住1.3x.mp3
+  1480. 27 - El accidente - 意外1.3x.mp3
+  1481. 28 - Una tarde de tele - 一个电视下午1.3x.mp3
+  1482. 29 - Por las ramas - 在树枝间1.3x.mp3
+  1483. 30 - Día de Navidad - 圣诞节1.3x.mp3
+  1484. 31 - El misterio de las verduras - 蔬菜谜案1.3x.mp3
+  1485. 32 - La carrera - 赛跑1.3x.mp3
+  1486. 33 - La helada - 冰冻1.3x.mp3
+  1487. 34 - Juguete-emergencias - 玩具急救队1.3x.mp3
+  1488. 35 - Al cole - 上学去1.3x.mp3
+  1489. 36 - ¿Me traes mi juguete？ - 能帮我拿玩具吗？1.3x.mp3
+  1490. 37 - ¡Quiero un zumo! - 我想要果汁！1.3x.mp3
+  1491. 38 - El álbum - 相册1.3x.mp3
+  1492. 39 - El secreto está en la pizza - 秘密在披萨里1.3x.mp3
+  1493. 40 - Aventura en el mar - 海上冒险1.3x.mp3
+  1494. 41 - ¡No quiero pintar! - 我不想画画！1.3x.mp3
+  1495. 42 - ¡Siéntate! - 坐下！1.3x.mp3
+  1496. 43 - Ella, caballera - 她是女骑士1.3x.mp3
+  1497. 44 - Todos contra Cleo - 全员对抗Cleo1.3x.mp3
+  1498. 45 - Una pesadilla de Halloween - 万圣节噩梦1.3x.mp3
+  1499. 46 - Avioncitos de papel - 纸飞机1.3x.mp3
+  1500. 47 - La leyenda del capitán garra - 坏船长加拉的传说1.3x.mp3
+  1501. 48 - El día de piscina - 泳池之日1.3x.mp3
+  1502. 49 - Policías y ladronzuelos - 警察和小偷1.3x.mp3
+  1503. 50 - Día de riego - 浇水日1.3x.mp3
+  1504. 51 - La flauta - 笛子1.3x.mp3
+  1505. 52 - ¡Que viene el lobo! - 狼来了！1.3x.mp3
+  1506. 53 - La nave - 宇宙飞船1.3x.mp3
+  1507. 54 - Búsqueda helada - 冰天雪地寻宝1.3x.mp3
+  1508. 55 - Mariesfinge - 海妖玛丽1.3x.mp3
+  1509. 56 - El huevo - 鸡蛋1.3x.mp3
+  1510. 57 - El videojuego - 电子游戏1.3x.mp3
+  1511. 58 - Goles sobre patines - 轮滑进球1.3x.mp3
+  1512. 59 - A todo hielo - 全垒打！冰上作战1.3x.mp3
+  1513. 60 - El circo de Cleo - Cleo的马戏团1.3x.mp3
+  1514. 61 - Nos vamos de vacaciones - 我们去度假1.3x.mp3
+  1515. 62 - Aventura al atardecer - 日落冒险1.3x.mp3
+  1516. 63 - La reforma - 大改造1.3x.mp3
+  1517. 64 - Nos vamos de cumple - 我们去生日会1.3x.mp3
+  1518. 65 - Las gafas de Teté - 特特的眼镜1.3x.mp3
+  1519. 66 - El gran huevo de Odín - 奥丁的大鸡蛋1.3x.mp3
+  1520. 67 - Escuela de monstruos - 怪兽学校1.3x.mp3
+  1521. 68 - Un mundo gigante - 巨大的世界1.3x.mp3
+  1522. 69 - Una nueva amiga - 新朋友1.3x.mp3
+  1523. 70 - Tesoros bajo la arena - 沙下的宝藏1.3x.mp3
+  1524. 71 - Juegos helados - 冰上游戏1.3x.mp3
+  1525. 72 - El misterio del cobertizo - 小棚屋之谜1.3x.mp3
+  1526. 73 - ¡Salvemos el bosque! - 拯救森林！1.3x.mp3
+  1527. 74 - El baile - 舞蹈1.3x.mp3
+  1528. 75 - Un pícnic en el bosque - 森林野餐1.3x.mp3
+  1529. 76 - Di patata - 说土豆1.3x.mp3
+  1530. 77 - ¡No te rasques! - 别挠我！1.3x.mp3
+  1531. 78 - El apagón - 大停电1.3x.mp3
 
-CleoYCunquin西语_1.3x (起始索引: 1532, 文件数量: 78)
-  1532. 01 - El estreno - 首映1.3x.mp3
-  1533. 02 - Atrapafantasma - 捉鬼达人1.3x.mp3
-  1534. 03 - Paseando a Pelusín - 带毛球散步1.3x.mp3
-  1535. 04 - Monstruas - 怪兽1.3x.mp3
-  1536. 05 - Doublé plié - 双起立小踢腿1.3x.mp3
-  1537. 06 - Elemental querida Colitas - 元素小姐与小尾巴1.3x.mp3
-  1538. 07 - Magic Cleo - 魔法可鲁1.3x.mp3
-  1539. 08 - El campeonato - 锦标赛1.3x.mp3
-  1540. 09 - La flor - 那朵花1.3x.mp3
-  1541. 10 - El diente volador - 飞牙1.3x.mp3
-  1542. 11 - Un día en la playa - 海滩的一天1.3x.mp3
-  1543. 12 - Lluvia de estrellas - 流星雨1.3x.mp3
-  1544. 13 - Superhéroes - 超级英雄1.3x.mp3
-  1545. 14 - Un día de sastre - 裁缝的一天1.3x.mp3
-  1546. 15 - Excavando - 挖掘1.3x.mp3
-  1547. 16 - Mi pequeña gran banda - 我的小小大乐队1.3x.mp3
-  1548. 17 - Suspenso en gimnasia - 体育课晕倒1.3x.mp3
-  1549. 18 - Fantasma enamorado - 恋爱的鬼魂1.3x.mp3
-  1550. 19 - La colmena - 蜂巢1.3x.mp3
-  1551. 20 - El proyecto de Teté - 特特的计划1.3x.mp3
-  1552. 21 - La pelota - 球1.3x.mp3
-  1553. 22 - El primer día de primavera - 第一个春天1.3x.mp3
-  1554. 23 - Feliz cumpleaños - 生日快乐1.3x.mp3
-  1555. 24 - La bici nueva - 新自行车1.3x.mp3
-  1556. 25 - El partidazo - 那场球赛1.3x.mp3
-  1557. 26 - Atrapado por las flores - 被花困住1.3x.mp3
-  1558. 27 - El accidente - 意外1.3x.mp3
-  1559. 28 - Una tarde de tele - 一个电视下午1.3x.mp3
-  1560. 29 - Por las ramas - 在树枝间1.3x.mp3
-  1561. 30 - Día de Navidad - 圣诞节1.3x.mp3
-  1562. 31 - El misterio de las verduras - 蔬菜谜案1.3x.mp3
-  1563. 32 - La carrera - 赛跑1.3x.mp3
-  1564. 33 - La helada - 冰冻1.3x.mp3
-  1565. 34 - Juguete-emergencias - 玩具急救队1.3x.mp3
-  1566. 35 - Al cole - 上学去1.3x.mp3
-  1567. 36 - ¿Me traes mi juguete？ - 能帮我拿玩具吗？1.3x.mp3
-  1568. 37 - ¡Quiero un zumo! - 我想要果汁！1.3x.mp3
-  1569. 38 - El álbum - 相册1.3x.mp3
-  1570. 39 - El secreto está en la pizza - 秘密在披萨里1.3x.mp3
-  1571. 40 - Aventura en el mar - 海上冒险1.3x.mp3
-  1572. 41 - ¡No quiero pintar! - 我不想画画！1.3x.mp3
-  1573. 42 - ¡Siéntate! - 坐下！1.3x.mp3
-  1574. 43 - Ella, caballera - 她是女骑士1.3x.mp3
-  1575. 44 - Todos contra Cleo - 全员对抗Cleo1.3x.mp3
-  1576. 45 - Una pesadilla de Halloween - 万圣节噩梦1.3x.mp3
-  1577. 46 - Avioncitos de papel - 纸飞机1.3x.mp3
-  1578. 47 - La leyenda del capitán garra - 坏船长加拉的传说1.3x.mp3
-  1579. 48 - El día de piscina - 泳池之日1.3x.mp3
-  1580. 49 - Policías y ladronzuelos - 警察和小偷1.3x.mp3
-  1581. 50 - Día de riego - 浇水日1.3x.mp3
-  1582. 51 - La flauta - 笛子1.3x.mp3
-  1583. 52 - ¡Que viene el lobo! - 狼来了！1.3x.mp3
-  1584. 53 - La nave - 宇宙飞船1.3x.mp3
-  1585. 54 - Búsqueda helada - 冰天雪地寻宝1.3x.mp3
-  1586. 55 - Mariesfinge - 海妖玛丽1.3x.mp3
-  1587. 56 - El huevo - 鸡蛋1.3x.mp3
-  1588. 57 - El videojuego - 电子游戏1.3x.mp3
-  1589. 58 - Goles sobre patines - 轮滑进球1.3x.mp3
-  1590. 59 - A todo hielo - 全垒打！冰上作战1.3x.mp3
-  1591. 60 - El circo de Cleo - Cleo的马戏团1.3x.mp3
-  1592. 61 - Nos vamos de vacaciones - 我们去度假1.3x.mp3
-  1593. 62 - Aventura al atardecer - 日落冒险1.3x.mp3
-  1594. 63 - La reforma - 大改造1.3x.mp3
-  1595. 64 - Nos vamos de cumple - 我们去生日会1.3x.mp3
-  1596. 65 - Las gafas de Teté - 特特的眼镜1.3x.mp3
-  1597. 66 - El gran huevo de Odín - 奥丁的大鸡蛋1.3x.mp3
-  1598. 67 - Escuela de monstruos - 怪兽学校1.3x.mp3
-  1599. 68 - Un mundo gigante - 巨大的世界1.3x.mp3
-  1600. 69 - Una nueva amiga - 新朋友1.3x.mp3
-  1601. 70 - Tesoros bajo la arena - 沙下的宝藏1.3x.mp3
-  1602. 71 - Juegos helados - 冰上游戏1.3x.mp3
-  1603. 72 - El misterio del cobertizo - 小棚屋之谜1.3x.mp3
-  1604. 73 - ¡Salvemos el bosque! - 拯救森林！1.3x.mp3
-  1605. 74 - El baile - 舞蹈1.3x.mp3
-  1606. 75 - Un pícnic en el bosque - 森林野餐1.3x.mp3
-  1607. 76 - Di patata - 说土豆1.3x.mp3
-  1608. 77 - ¡No te rasques! - 别挠我！1.3x.mp3
-  1609. 78 - El apagón - 大停电1.3x.mp3
+古诗词_75_80 (起始索引: 1532, 文件数量: 200)
+  1532. 001咏鹅.mp3
+  1533. 002江南.mp3
+  1534. 003画.mp3
+  1535. 004悯农（其二）锄禾日当午.mp3
+  1536. 005古朗月行.mp3
+  1537. 006风.mp3
+  1538. 007春晓.mp3
+  1539. 008赠汪伦.mp3
+  1540. 009静夜思.mp3
+  1541. 010寻隐者不遇.mp3
+  1542. 011池上.mp3
+  1543. 012小池.mp3
+  1544. 013画鸡.mp3
+  1545. 014梅花.mp3
+  1546. 015小儿垂钓.mp3
+  1547. 016登鹳雀楼.mp3
+  1548. 017望庐山瀑布.mp3
+  1549. 018江雪.mp3
+  1550. 019夜宿山寺.mp3
+  1551. 020敕勒歌.mp3
+  1552. 021村居.mp3
+  1553. 022咏柳.mp3
+  1554. 023赋得古原草送别.mp3
+  1555. 024晓出净慈寺送林子方.mp3
+  1556. 025绝句两个黄鹂鸣翠柳.mp3
+  1557. 026悯农（其一）春种一粒粟.mp3
+  1558. 027舟夜书所见.mp3
+  1559. 028所见.mp3
+  1560. 029山行.mp3
+  1561. 030赠刘景文.mp3
+  1562. 031夜书所见.mp3
+  1563. 032望天门山.mp3
+  1564. 033饮湖上初晴后雨.mp3
+  1565. 034望洞庭.mp3
+  1566. 035早发白帝城.mp3
+  1567. 036采莲曲.mp3
+  1568. 037司马光（正文）.mp3
+  1569. 038绝句迟日江山丽.mp3
+  1570. 039惠崇春江晚景.mp3
+  1571. 040三衢道中.mp3
+  1572. 041忆江南.mp3
+  1573. 042守株待兔（正文）.mp3
+  1574. 043元日.mp3
+  1575. 044清明.mp3
+  1576. 045九月九日忆山东兄弟.mp3
+  1577. 046滁州西涧.mp3
+  1578. 047大林寺桃花.mp3
+  1579. 048浪淘沙其七八月涛声吼地来.mp3
+  1580. 049鹿柴.mp3
+  1581. 050暮江吟.mp3
+  1582. 051题西林壁.mp3
+  1583. 052雪梅.mp3
+  1584. 053精卫填海（正文）.mp3
+  1585. 054嫦娥.mp3
+  1586. 055出塞.mp3
+  1587. 056凉州词古来征战几人回.mp3
+  1588. 057夏日绝句.mp3
+  1589. 058别董大.mp3
+  1590. 059王戎不取道旁李（正文）.mp3
+  1591. 060四时田园杂兴梅子金黄杏子肥.mp3
+  1592. 061宿新市徐公店.mp3
+  1593. 062清平乐村居.mp3
+  1594. 063卜算子咏梅.mp3
+  1595. 064江畔独步寻花.mp3
+  1596. 065蜂.mp3
+  1597. 066独坐敬亭山.mp3
+  1598. 067芙蓉楼送辛渐.mp3
+  1599. 068塞下曲（其三）月黑雁飞高.mp3
+  1600. 069墨梅.mp3
+  1601. 070囊萤夜读（正文）.mp3
+  1602. 071铁杵成针（正文）.mp3
+  1603. 072蝉.mp3
+  1604. 073乞巧.mp3
+  1605. 074示儿.mp3
+  1606. 075题临安邸.mp3
+  1607. 076己亥杂诗-九州生气恃风雷.mp3
+  1608. 077山居秋暝.mp3
+  1609. 078枫桥夜泊.mp3
+  1610. 079长相思.mp3
+  1611. 080渔歌子.mp3
+  1612. 081少年中国说（正文）.mp3
+  1613. 082古人谈读书一（正文）.mp3
+  1614. 083古人谈读书二（正文）.mp3
+  1615. 084古人谈读书三（正文）.mp3
+  1616. 085观书有感半亩方塘一鉴开.mp3
+  1617. 086观书有感其二.mp3
+  1618. 087四时田园杂兴昼出耘田夜绩麻.mp3
+  1619. 088稚子弄冰.mp3
+  1620. 089村晚.mp3
+  1621. 090游子吟.mp3
+  1622. 091鸟鸣涧.mp3
+  1623. 092从军行青海长云暗雪山.mp3
+  1624. 093秋夜将晓出篱门迎凉有感.mp3
+  1625. 094闻官军收河南河北.mp3
+  1626. 095凉州词春风不度玉门关.mp3
+  1627. 096黄鹤楼送孟浩然之广陵.mp3
+  1628. 097自相矛盾（正文）.mp3
+  1629. 098杨氏之子（正文）.mp3
+  1630. 099乡村四月.mp3
+  1631. 100宿建德江.mp3
+  1632. 101六月二十七日望湖楼醉书.mp3
+  1633. 102西江月夜行黄沙道中.mp3
+  1634. 103过故人庄.mp3
+  1635. 104七律长征.mp3
+  1636. 105菩萨蛮大柏地.mp3
+  1637. 106春日.mp3
+  1638. 107回乡偶书.mp3
+  1639. 108浪淘沙（其一）九曲黄河万里沙.mp3
+  1640. 109江南春.mp3
+  1641. 110书湖阴先生壁.mp3
+  1642. 111伯牙鼓琴（正文）.mp3
+  1643. 112书戴嵩画牛（正文）.mp3
+  1644. 113寒食.mp3
+  1645. 114迢迢牵牛星.mp3
+  1646. 115十五夜望月.mp3
+  1647. 116长歌行.mp3
+  1648. 117马诗.mp3
+  1649. 118石灰吟.mp3
+  1650. 119竹石.mp3
+  1651. 120学弈（正文）.mp3
+  1652. 121两小儿辩日（正文）.mp3
+  1653. 122采薇.mp3
+  1654. 123送元二使安西.mp3
+  1655. 124春夜喜雨.mp3
+  1656. 125早春呈水部张十八员外.mp3
+  1657. 126江上渔者.mp3
+  1658. 127泊船瓜洲.mp3
+  1659. 128游园不值.mp3
+  1660. 129卜算子送鲍浩然之浙东.mp3
+  1661. 130浣溪沙.mp3
+  1662. 131清平乐.mp3
+  1663. 132七步诗.mp3
+  1664. 133归园田居种豆南山下.mp3
+  1665. 134于易水送人.mp3
+  1666. 135送杜少府之任蜀州.mp3
+  1667. 136蜀中九日.mp3
+  1668. 137中秋月圆魄上寒空.mp3
+  1669. 138田园乐桃红复含宿雨.mp3
+  1670. 139杂诗（其二）君自故乡来.mp3
+  1671. 140山中送别.mp3
+  1672. 141少年行.mp3
+  1673. 142秋浦歌.mp3
+  1674. 143送友人.mp3
+  1675. 144峨眉山月歌.mp3
+  1676. 145闻王昌龄左迁龙标遥有此寄.mp3
+  1677. 146春夜洛城闻笛.mp3
+  1678. 147从军行百战沙场碎铁衣.mp3
+  1679. 148客中作.mp3
+  1680. 149塞上听吹笛.mp3
+  1681. 150塞下曲玉帛朝回望帝乡.mp3
+  1682. 151劝学.mp3
+  1683. 152江畔独步寻花黄四娘家花满溪.mp3
+  1684. 153赠花卿.mp3
+  1685. 154前出塞挽弓当挽强.mp3
+  1686. 155望岳.mp3
+  1687. 156春望.mp3
+  1688. 157江南逢李龟年.mp3
+  1689. 158绝句漫兴糁径杨花铺白毡.mp3
+  1690. 159八阵图.mp3
+  1691. 160月夜忆舍弟.mp3
+  1692. 161逢雪宿芙蓉山主人.mp3
+  1693. 162秋夜寄丘员外.mp3
+  1694. 163塞下曲（其二）林暗草惊风.mp3
+  1695. 164乌衣巷.mp3
+  1696. 165竹枝词.mp3
+  1697. 166秋词自古逢秋悲寂寥.mp3
+  1698. 167浪淘沙莫道谗言如浪深.mp3
+  1699. 168遗爱寺.mp3
+  1700. 169钱塘湖春行.mp3
+  1701. 170早梅.mp3
+  1702. 171菊花.mp3
+  1703. 172秋夕.mp3
+  1704. 173过华清宫绝句.mp3
+  1705. 174赤壁.mp3
+  1706. 175泊秦淮.mp3
+  1707. 176长安秋望.mp3
+  1708. 177乐游原.mp3
+  1709. 178贾生.mp3
+  1710. 179商山早行.mp3
+  1711. 180溪上遇雨其二.mp3
+  1712. 181山园小梅.mp3
+  1713. 182题花山寺壁.mp3
+  1714. 183钟山即事.mp3
+  1715. 184琴诗.mp3
+  1716. 185海棠.mp3
+  1717. 186登快阁.mp3
+  1718. 187雨中登岳阳楼望君山其一.mp3
+  1719. 188如梦令.mp3
+  1720. 189剑门道中遇微雨.mp3
+  1721. 190书愤.mp3
+  1722. 191十一月四日风雨大作.mp3
+  1723. 192初夏睡起.mp3
+  1724. 193过零丁洋.mp3
+  1725. 194今日歌.mp3
+  1726. 195题秋江独钓图.mp3
+  1727. 196论诗其二.mp3
+  1728. 197己亥杂诗-浩荡离愁白日斜.mp3
+  1729. 198赠梁任父同年.mp3
+  1730. 199狱中题壁.mp3
+  1731. 200无题.mp3
 
-古诗词_75_80 (起始索引: 1610, 文件数量: 200)
-  1610. 001咏鹅.mp3
-  1611. 002江南.mp3
-  1612. 003画.mp3
-  1613. 004悯农（其二）锄禾日当午.mp3
-  1614. 005古朗月行.mp3
-  1615. 006风.mp3
-  1616. 007春晓.mp3
-  1617. 008赠汪伦.mp3
-  1618. 009静夜思.mp3
-  1619. 010寻隐者不遇.mp3
-  1620. 011池上.mp3
-  1621. 012小池.mp3
-  1622. 013画鸡.mp3
-  1623. 014梅花.mp3
-  1624. 015小儿垂钓.mp3
-  1625. 016登鹳雀楼.mp3
-  1626. 017望庐山瀑布.mp3
-  1627. 018江雪.mp3
-  1628. 019夜宿山寺.mp3
-  1629. 020敕勒歌.mp3
-  1630. 021村居.mp3
-  1631. 022咏柳.mp3
-  1632. 023赋得古原草送别.mp3
-  1633. 024晓出净慈寺送林子方.mp3
-  1634. 025绝句两个黄鹂鸣翠柳.mp3
-  1635. 026悯农（其一）春种一粒粟.mp3
-  1636. 027舟夜书所见.mp3
-  1637. 028所见.mp3
-  1638. 029山行.mp3
-  1639. 030赠刘景文.mp3
-  1640. 031夜书所见.mp3
-  1641. 032望天门山.mp3
-  1642. 033饮湖上初晴后雨.mp3
-  1643. 034望洞庭.mp3
-  1644. 035早发白帝城.mp3
-  1645. 036采莲曲.mp3
-  1646. 037司马光（正文）.mp3
-  1647. 038绝句迟日江山丽.mp3
-  1648. 039惠崇春江晚景.mp3
-  1649. 040三衢道中.mp3
-  1650. 041忆江南.mp3
-  1651. 042守株待兔（正文）.mp3
-  1652. 043元日.mp3
-  1653. 044清明.mp3
-  1654. 045九月九日忆山东兄弟.mp3
-  1655. 046滁州西涧.mp3
-  1656. 047大林寺桃花.mp3
-  1657. 048浪淘沙其七八月涛声吼地来.mp3
-  1658. 049鹿柴.mp3
-  1659. 050暮江吟.mp3
-  1660. 051题西林壁.mp3
-  1661. 052雪梅.mp3
-  1662. 053精卫填海（正文）.mp3
-  1663. 054嫦娥.mp3
-  1664. 055出塞.mp3
-  1665. 056凉州词古来征战几人回.mp3
-  1666. 057夏日绝句.mp3
-  1667. 058别董大.mp3
-  1668. 059王戎不取道旁李（正文）.mp3
-  1669. 060四时田园杂兴梅子金黄杏子肥.mp3
-  1670. 061宿新市徐公店.mp3
-  1671. 062清平乐村居.mp3
-  1672. 063卜算子咏梅.mp3
-  1673. 064江畔独步寻花.mp3
-  1674. 065蜂.mp3
-  1675. 066独坐敬亭山.mp3
-  1676. 067芙蓉楼送辛渐.mp3
-  1677. 068塞下曲（其三）月黑雁飞高.mp3
-  1678. 069墨梅.mp3
-  1679. 070囊萤夜读（正文）.mp3
-  1680. 071铁杵成针（正文）.mp3
-  1681. 072蝉.mp3
-  1682. 073乞巧.mp3
-  1683. 074示儿.mp3
-  1684. 075题临安邸.mp3
-  1685. 076己亥杂诗-九州生气恃风雷.mp3
-  1686. 077山居秋暝.mp3
-  1687. 078枫桥夜泊.mp3
-  1688. 079长相思.mp3
-  1689. 080渔歌子.mp3
-  1690. 081少年中国说（正文）.mp3
-  1691. 082古人谈读书一（正文）.mp3
-  1692. 083古人谈读书二（正文）.mp3
-  1693. 084古人谈读书三（正文）.mp3
-  1694. 085观书有感半亩方塘一鉴开.mp3
-  1695. 086观书有感其二.mp3
-  1696. 087四时田园杂兴昼出耘田夜绩麻.mp3
-  1697. 088稚子弄冰.mp3
-  1698. 089村晚.mp3
-  1699. 090游子吟.mp3
-  1700. 091鸟鸣涧.mp3
-  1701. 092从军行青海长云暗雪山.mp3
-  1702. 093秋夜将晓出篱门迎凉有感.mp3
-  1703. 094闻官军收河南河北.mp3
-  1704. 095凉州词春风不度玉门关.mp3
-  1705. 096黄鹤楼送孟浩然之广陵.mp3
-  1706. 097自相矛盾（正文）.mp3
-  1707. 098杨氏之子（正文）.mp3
-  1708. 099乡村四月.mp3
-  1709. 100宿建德江.mp3
-  1710. 101六月二十七日望湖楼醉书.mp3
-  1711. 102西江月夜行黄沙道中.mp3
-  1712. 103过故人庄.mp3
-  1713. 104七律长征.mp3
-  1714. 105菩萨蛮大柏地.mp3
-  1715. 106春日.mp3
-  1716. 107回乡偶书.mp3
-  1717. 108浪淘沙（其一）九曲黄河万里沙.mp3
-  1718. 109江南春.mp3
-  1719. 110书湖阴先生壁.mp3
-  1720. 111伯牙鼓琴（正文）.mp3
-  1721. 112书戴嵩画牛（正文）.mp3
-  1722. 113寒食.mp3
-  1723. 114迢迢牵牛星.mp3
-  1724. 115十五夜望月.mp3
-  1725. 116长歌行.mp3
-  1726. 117马诗.mp3
-  1727. 118石灰吟.mp3
-  1728. 119竹石.mp3
-  1729. 120学弈（正文）.mp3
-  1730. 121两小儿辩日（正文）.mp3
-  1731. 122采薇.mp3
-  1732. 123送元二使安西.mp3
-  1733. 124春夜喜雨.mp3
-  1734. 125早春呈水部张十八员外.mp3
-  1735. 126江上渔者.mp3
-  1736. 127泊船瓜洲.mp3
-  1737. 128游园不值.mp3
-  1738. 129卜算子送鲍浩然之浙东.mp3
-  1739. 130浣溪沙.mp3
-  1740. 131清平乐.mp3
-  1741. 132七步诗.mp3
-  1742. 133归园田居种豆南山下.mp3
-  1743. 134于易水送人.mp3
-  1744. 135送杜少府之任蜀州.mp3
-  1745. 136蜀中九日.mp3
-  1746. 137中秋月圆魄上寒空.mp3
-  1747. 138田园乐桃红复含宿雨.mp3
-  1748. 139杂诗（其二）君自故乡来.mp3
-  1749. 140山中送别.mp3
-  1750. 141少年行.mp3
-  1751. 142秋浦歌.mp3
-  1752. 143送友人.mp3
-  1753. 144峨眉山月歌.mp3
-  1754. 145闻王昌龄左迁龙标遥有此寄.mp3
-  1755. 146春夜洛城闻笛.mp3
-  1756. 147从军行百战沙场碎铁衣.mp3
-  1757. 148客中作.mp3
-  1758. 149塞上听吹笛.mp3
-  1759. 150塞下曲玉帛朝回望帝乡.mp3
-  1760. 151劝学.mp3
-  1761. 152江畔独步寻花黄四娘家花满溪.mp3
-  1762. 153赠花卿.mp3
-  1763. 154前出塞挽弓当挽强.mp3
-  1764. 155望岳.mp3
-  1765. 156春望.mp3
-  1766. 157江南逢李龟年.mp3
-  1767. 158绝句漫兴糁径杨花铺白毡.mp3
-  1768. 159八阵图.mp3
-  1769. 160月夜忆舍弟.mp3
-  1770. 161逢雪宿芙蓉山主人.mp3
-  1771. 162秋夜寄丘员外.mp3
-  1772. 163塞下曲（其二）林暗草惊风.mp3
-  1773. 164乌衣巷.mp3
-  1774. 165竹枝词.mp3
-  1775. 166秋词自古逢秋悲寂寥.mp3
-  1776. 167浪淘沙莫道谗言如浪深.mp3
-  1777. 168遗爱寺.mp3
-  1778. 169钱塘湖春行.mp3
-  1779. 170早梅.mp3
-  1780. 171菊花.mp3
-  1781. 172秋夕.mp3
-  1782. 173过华清宫绝句.mp3
-  1783. 174赤壁.mp3
-  1784. 175泊秦淮.mp3
-  1785. 176长安秋望.mp3
-  1786. 177乐游原.mp3
-  1787. 178贾生.mp3
-  1788. 179商山早行.mp3
-  1789. 180溪上遇雨其二.mp3
-  1790. 181山园小梅.mp3
-  1791. 182题花山寺壁.mp3
-  1792. 183钟山即事.mp3
-  1793. 184琴诗.mp3
-  1794. 185海棠.mp3
-  1795. 186登快阁.mp3
-  1796. 187雨中登岳阳楼望君山其一.mp3
-  1797. 188如梦令.mp3
-  1798. 189剑门道中遇微雨.mp3
-  1799. 190书愤.mp3
-  1800. 191十一月四日风雨大作.mp3
-  1801. 192初夏睡起.mp3
-  1802. 193过零丁洋.mp3
-  1803. 194今日歌.mp3
-  1804. 195题秋江独钓图.mp3
-  1805. 196论诗其二.mp3
-  1806. 197己亥杂诗-浩荡离愁白日斜.mp3
-  1807. 198赠梁任父同年.mp3
-  1808. 199狱中题壁.mp3
-  1809. 200无题.mp3
+小学必背古诗75首 (起始索引: 1732, 文件数量: 75)
+  1732. 1 江南.mp3
+  1733. 2 长歌行.mp3
+  1734. 3 敕勒歌.mp3
+  1735. 4 咏鹅.mp3
+  1736. 5 风.mp3
+  1737. 6 咏柳.mp3
+  1738. 7 回乡偶书 .mp3
+  1739. 8 凉州词.mp3
+  1740. 9 登鹳雀楼.mp3
+  1741. 10 春晓.mp3
+  1742. 11 凉州词.mp3
+  1743. 12 出塞.mp3
+  1744. 13 芙蓉楼送辛渐.mp3
+  1745. 14 鹿柴.mp3
+  1746. 15 送元二使安西.mp3
+  1747. 16 九月九日忆山东兄弟.mp3
+  1748. 17 静夜思.mp3
+  1749. 18 古朗月行.mp3
+  1750. 19 望庐山瀑布.mp3
+  1751. 20 赠汪伦.mp3
+  1752. 21 黄鹤楼送孟浩然之广陵.mp3
+  1753. 22 早发白帝城.mp3
+  1754. 23 望天门山.mp3
+  1755. 24 别董大.mp3
+  1756. 25 绝句.mp3
+  1757. 26 春夜喜雨.mp3
+  1758. 27 绝句.mp3
+  1759. 28 江畔独步寻花.mp3
+  1760. 29 枫桥夜泊.mp3
+  1761. 30 滁州西涧.mp3
+  1762. 31 游子吟.mp3
+  1763. 32 早春呈水部张十八员外.mp3
+  1764. 33 渔歌子.mp3
+  1765. 34 塞下曲.mp3
+  1766. 35 望洞庭.mp3
+  1767. 36 浪淘沙.mp3
+  1768. 37 赋得古原草送别.mp3
+  1769. 38 池上.mp3
+  1770. 39 忆江南.mp3
+  1771. 40 小儿垂钓.mp3
+  1772. 41 悯农（之一）.mp3
+  1773. 42 悯农（之二）.mp3
+  1774. 43 江雪.mp3
+  1775. 44 寻隐者不遇.mp3
+  1776. 45 山行.mp3
+  1777. 46 清明.mp3
+  1778. 47 江南春.mp3
+  1779. 48 蜂.mp3
+  1780. 49 江上渔者.mp3
+  1781. 50 元日.mp3
+  1782. 51 泊船瓜洲.mp3
+  1783. 52 书湖阴先生壁.mp3
+  1784. 53 六月二十七日望湖楼醉书.mp3
+  1785. 54 饮湖上初晴后雨.mp3
+  1786. 55 惠崇《春江晚景》.mp3
+  1787. 56 题西林壁.mp3
+  1788. 57 夏日绝句.mp3
+  1789. 58 三衢道中.mp3
+  1790. 59 示儿.mp3
+  1791. 60 秋夜将晓出篱门迎凉有感.mp3
+  1792. 61 四时田园杂兴（之一）.mp3
+  1793. 62 四时田园杂兴（之二）.mp3
+  1794. 63 小池.mp3
+  1795. 64 晓出净慈寺送林子方.mp3
+  1796. 65 春日.mp3
+  1797. 66 观书有感.mp3
+  1798. 67 题临安邸.mp3
+  1799. 68 游园不值.mp3
+  1800. 69 乡村四月.mp3
+  1801. 70 墨梅.mp3
+  1802. 71 石灰吟.mp3
+  1803. 72 竹石.mp3
+  1804. 73 所见.mp3
+  1805. 74 村居.mp3
+  1806. 75 己亥杂诗.mp3
 
-小学必背古诗75首 (起始索引: 1810, 文件数量: 75)
-  1810. 1 江南.mp3
-  1811. 2 长歌行.mp3
-  1812. 3 敕勒歌.mp3
-  1813. 4 咏鹅.mp3
-  1814. 5 风.mp3
-  1815. 6 咏柳.mp3
-  1816. 7 回乡偶书 .mp3
-  1817. 8 凉州词.mp3
-  1818. 9 登鹳雀楼.mp3
-  1819. 10 春晓.mp3
-  1820. 11 凉州词.mp3
-  1821. 12 出塞.mp3
-  1822. 13 芙蓉楼送辛渐.mp3
-  1823. 14 鹿柴.mp3
-  1824. 15 送元二使安西.mp3
-  1825. 16 九月九日忆山东兄弟.mp3
-  1826. 17 静夜思.mp3
-  1827. 18 古朗月行.mp3
-  1828. 19 望庐山瀑布.mp3
-  1829. 20 赠汪伦.mp3
-  1830. 21 黄鹤楼送孟浩然之广陵.mp3
-  1831. 22 早发白帝城.mp3
-  1832. 23 望天门山.mp3
-  1833. 24 别董大.mp3
-  1834. 25 绝句.mp3
-  1835. 26 春夜喜雨.mp3
-  1836. 27 绝句.mp3
-  1837. 28 江畔独步寻花.mp3
-  1838. 29 枫桥夜泊.mp3
-  1839. 30 滁州西涧.mp3
-  1840. 31 游子吟.mp3
-  1841. 32 早春呈水部张十八员外.mp3
-  1842. 33 渔歌子.mp3
-  1843. 34 塞下曲.mp3
-  1844. 35 望洞庭.mp3
-  1845. 36 浪淘沙.mp3
-  1846. 37 赋得古原草送别.mp3
-  1847. 38 池上.mp3
-  1848. 39 忆江南.mp3
-  1849. 40 小儿垂钓.mp3
-  1850. 41 悯农（之一）.mp3
-  1851. 42 悯农（之二）.mp3
-  1852. 43 江雪.mp3
-  1853. 44 寻隐者不遇.mp3
-  1854. 45 山行.mp3
-  1855. 46 清明.mp3
-  1856. 47 江南春.mp3
-  1857. 48 蜂.mp3
-  1858. 49 江上渔者.mp3
-  1859. 50 元日.mp3
-  1860. 51 泊船瓜洲.mp3
-  1861. 52 书湖阴先生壁.mp3
-  1862. 53 六月二十七日望湖楼醉书.mp3
-  1863. 54 饮湖上初晴后雨.mp3
-  1864. 55 惠崇《春江晚景》.mp3
-  1865. 56 题西林壁.mp3
-  1866. 57 夏日绝句.mp3
-  1867. 58 三衢道中.mp3
-  1868. 59 示儿.mp3
-  1869. 60 秋夜将晓出篱门迎凉有感.mp3
-  1870. 61 四时田园杂兴（之一）.mp3
-  1871. 62 四时田园杂兴（之二）.mp3
-  1872. 63 小池.mp3
-  1873. 64 晓出净慈寺送林子方.mp3
-  1874. 65 春日.mp3
-  1875. 66 观书有感.mp3
-  1876. 67 题临安邸.mp3
-  1877. 68 游园不值.mp3
-  1878. 69 乡村四月.mp3
-  1879. 70 墨梅.mp3
-  1880. 71 石灰吟.mp3
-  1881. 72 竹石.mp3
-  1882. 73 所见.mp3
-  1883. 74 村居.mp3
-  1884. 75 己亥杂诗.mp3
+中国经典故事绘本第一辑 (起始索引: 1807, 文件数量: 10)
+  1807. 01-《百鸟朝凤》.mp3
+  1808. 02-《大禹治水》.mp3
+  1809. 03-《后羿射日》.mp3
+  1810. 04-《精卫填海》.mp3
+  1811. 05-《夸父逐日》.mp3
+  1812. 06-《年的传说》.mp3
+  1813. 07-《女娲补天》.mp3
+  1814. 08-《女娲造人》.mp3
+  1815. 09-《盘古开天辟地》.mp3
+  1816. 10-《神农尝百草》.mp3
 
-中国经典故事绘本第一辑 (起始索引: 1885, 文件数量: 10)
-  1885. 01-《百鸟朝凤》.mp3
-  1886. 02-《大禹治水》.mp3
-  1887. 03-《后羿射日》.mp3
-  1888. 04-《精卫填海》.mp3
-  1889. 05-《夸父逐日》.mp3
-  1890. 06-《年的传说》.mp3
-  1891. 07-《女娲补天》.mp3
-  1892. 08-《女娲造人》.mp3
-  1893. 09-《盘古开天辟地》.mp3
-  1894. 10-《神农尝百草》.mp3
+中国经典故事绘本第二辑 (起始索引: 1817, 文件数量: 10)
+  1817. 01-《八仙过海》.mp3
+  1818. 02-《嫦娥奔月》.mp3
+  1819. 03-《沉香救母》.mp3
+  1820. 04-《大闹天宫》.mp3
+  1821. 05-《木兰从军》.mp3
+  1822. 06-《哪吒闹海》.mp3
+  1823. 07-《牛郎织女》.mp3
+  1824. 08-《十二生肖》.mp3
+  1825. 09-《田螺姑娘》.mp3
+  1826. 10-《愚公移山》.mp3
 
-中国经典故事绘本第二辑 (起始索引: 1895, 文件数量: 10)
-  1895. 01-《八仙过海》.mp3
-  1896. 02-《嫦娥奔月》.mp3
-  1897. 03-《沉香救母》.mp3
-  1898. 04-《大闹天宫》.mp3
-  1899. 05-《木兰从军》.mp3
-  1900. 06-《哪吒闹海》.mp3
-  1901. 07-《牛郎织女》.mp3
-  1902. 08-《十二生肖》.mp3
-  1903. 09-《田螺姑娘》.mp3
-  1904. 10-《愚公移山》.mp3
+中国经典故事绘本第三辑 (起始索引: 1827, 文件数量: 20)
+  1827. 001-白蛇传说.mp3
+  1828. 002-杯弓蛇影.mp3
+  1829. 03-《曹冲称象》.mp3
+  1830. 04-《草船借箭》.mp3
+  1831. 05-《东郭先生和狼》.mp3
+  1832. 06-《高山流水》.mp3
+  1833. 07-《猴子捞月》.mp3
+  1834. 08-《狐假虎威》.mp3
+  1835. 09-《黄香温席》.mp3
+  1836. 10-《姜太公钓鱼》.mp3
+  1837. 11-《九色鹿》.mp3
+  1838. 12-《滥竽充数》.mp3
+  1839. 13-《老鼠嫁女》.mp3
+  1840. 14-《鲤鱼跳龙门》.mp3
+  1841. 15-《孟姜女哭长城》.mp3
+  1842. 16-《三个和尚》.mp3
+  1843. 17-《司马光砸缸》.mp3
+  1844. 18-《武松打虎》.mp3
+  1845. 19-《叶公好龙》.mp3
+  1846. 20-《岳母刺字》.mp3
 
-中国经典故事绘本第三辑 (起始索引: 1905, 文件数量: 20)
-  1905. 001-白蛇传说.mp3
-  1906. 002-杯弓蛇影.mp3
-  1907. 03-《曹冲称象》.mp3
-  1908. 04-《草船借箭》.mp3
-  1909. 05-《东郭先生和狼》.mp3
-  1910. 06-《高山流水》.mp3
-  1911. 07-《猴子捞月》.mp3
-  1912. 08-《狐假虎威》.mp3
-  1913. 09-《黄香温席》.mp3
-  1914. 10-《姜太公钓鱼》.mp3
-  1915. 11-《九色鹿》.mp3
-  1916. 12-《滥竽充数》.mp3
-  1917. 13-《老鼠嫁女》.mp3
-  1918. 14-《鲤鱼跳龙门》.mp3
-  1919. 15-《孟姜女哭长城》.mp3
-  1920. 16-《三个和尚》.mp3
-  1921. 17-《司马光砸缸》.mp3
-  1922. 18-《武松打虎》.mp3
-  1923. 19-《叶公好龙》.mp3
-  1924. 20-《岳母刺字》.mp3
+中国经典故事绘本第四辑 (起始索引: 1847, 文件数量: 20)
+  1847. 01-《才高八斗》.mp3
+  1848. 02-《道听途说》.mp3
+  1849. 03-《点石成金》.mp3
+  1850. 04-《画饼充饥》.mp3
+  1851. 05-《画蛇添足》.mp3
+  1852. 06-《鸡犬升天》.mp3
+  1853. 07-《金蝉脱壳》.mp3
+  1854. 08-《惊弓之鸟》.mp3
+  1855. 09-《井底之蛙》.mp3
+  1856. 10-《买椟还珠》.mp3
+  1857. 11-《盲人摸象》.mp3
+  1858. 12-《孟母三迁》.mp3
+  1859. 13-《妙笔生花》.mp3
+  1860. 14-《三顾茅庐》.mp3
+  1861. 15-《熟能生巧》.mp3
+  1862. 16-《亡羊补牢》.mp3
+  1863. 17-《望梅止渴》.mp3
+  1864. 18-《揠苗助长》.mp3
+  1865. 19-《与虎谋皮》.mp3
+  1866. 20-《纸上谈兵》.mp3
 
-中国经典故事绘本第四辑 (起始索引: 1925, 文件数量: 20)
-  1925. 01-《才高八斗》.mp3
-  1926. 02-《道听途说》.mp3
-  1927. 03-《点石成金》.mp3
-  1928. 04-《画饼充饥》.mp3
-  1929. 05-《画蛇添足》.mp3
-  1930. 06-《鸡犬升天》.mp3
-  1931. 07-《金蝉脱壳》.mp3
-  1932. 08-《惊弓之鸟》.mp3
-  1933. 09-《井底之蛙》.mp3
-  1934. 10-《买椟还珠》.mp3
-  1935. 11-《盲人摸象》.mp3
-  1936. 12-《孟母三迁》.mp3
-  1937. 13-《妙笔生花》.mp3
-  1938. 14-《三顾茅庐》.mp3
-  1939. 15-《熟能生巧》.mp3
-  1940. 16-《亡羊补牢》.mp3
-  1941. 17-《望梅止渴》.mp3
-  1942. 18-《揠苗助长》.mp3
-  1943. 19-《与虎谋皮》.mp3
-  1944. 20-《纸上谈兵》.mp3
+中国经典故事绘本第五辑 (起始索引: 1867, 文件数量: 20)
+  1867. 一饭千金.mp3
+  1868. 一鸣惊人.mp3
+  1869. 刻舟求剑.mp3
+  1870. 南辕北辙.mp3
+  1871. 夜郎自大.mp3
+  1872. 完璧归赵.mp3
+  1873. 对牛弹琴.mp3
+  1874. 掩耳盗铃.mp3
+  1875. 杞人忧天.mp3
+  1876. 田忌赛马.mp3
+  1877. 画龙点睛.mp3
+  1878. 百步穿杨.mp3
+  1879. 胸有成竹.mp3
+  1880. 自相矛盾.mp3
+  1881. 负荆请罪.mp3
+  1882. 邯郸学步.mp3
+  1883. 郑人买履.mp3
+  1884. 钻木取火.mp3
+  1885. 鹬蚌相争.mp3
+  1886. 黔驴技穷.mp3
 
-中国经典故事绘本第五辑 (起始索引: 1945, 文件数量: 20)
-  1945. 一饭千金.mp3
-  1946. 一鸣惊人.mp3
-  1947. 刻舟求剑.mp3
-  1948. 南辕北辙.mp3
-  1949. 夜郎自大.mp3
-  1950. 完璧归赵.mp3
-  1951. 对牛弹琴.mp3
-  1952. 掩耳盗铃.mp3
-  1953. 杞人忧天.mp3
-  1954. 田忌赛马.mp3
-  1955. 画龙点睛.mp3
-  1956. 百步穿杨.mp3
-  1957. 胸有成竹.mp3
-  1958. 自相矛盾.mp3
-  1959. 负荆请罪.mp3
-  1960. 邯郸学步.mp3
-  1961. 郑人买履.mp3
-  1962. 钻木取火.mp3
-  1963. 鹬蚌相争.mp3
-  1964. 黔驴技穷.mp3
+西游记1.6x (起始索引: 1887, 文件数量: 108)
+  1887. 001 The Monkey1.6x.mp3
+  1888. 002 The Waterfall Cave1.6x.mp3
+  1889. 003 Subodhi1.6x.mp3
+  1890. 004 Secret Formulas1.6x.mp3
+  1891. 005 The Demon of Chaos1.6x.mp3
+  1892. 006 The Dragon King1.6x.mp3
+  1893. 007 The Land of Darkness1.6x.mp3
+  1894. 008 A Job in Heaven1.6x.mp3
+  1895. 009 The Peach Garden1.6x.mp3
+  1896. 010 The Powerful Sage1.6x.mp3
+  1897. 011 Trouble in Heaven1.6x.mp3
+  1898. 012 The Bet1.6x.mp3
+  1899. 013 The True Scriptures1.6x.mp3
+  1900. 014 A Promise to Protect1.6x.mp3
+  1901. 015 Tea with a Dragon1.6x.mp3
+  1902. 016 Wukong Gets Tricked1.6x.mp3
+  1903. 017 The Dragon in the River1.6x.mp3
+  1904. 018 The Robe1.6x.mp3
+  1905. 019 An Evil Plan1.6x.mp3
+  1906. 020 The Black Bear Spirit1.6x.mp3
+  1907. 021 The Monster's Friend1.6x.mp3
+  1908. 022 A Very Strange Pill1.6x.mp3
+  1909. 023 Great Protectors1.6x.mp3
+  1910. 024 The Great King Yellow Wind1.6x.mp3
+  1911. 025 Powerful Wind Magic1.6x.mp3
+  1912. 026 The Monster in the River1.6x.mp3
+  1913. 027 The Ginseng Fruit1.6x.mp3
+  1914. 028 Wukong Leaves His Body1.6x.mp3
+  1915. 029 The Magic Sleeve1.6x.mp3
+  1916. 030 The Frying Pan1.6x.mp3
+  1917. 031 Guanyin's Vase1.6x.mp3
+  1918. 032 Lady Whitebone1.6x.mp3
+  1919. 033 Bajie Takes a Nap1.6x.mp3
+  1920. 034 Tricked by the Princess1.6x.mp3
+  1921. 035 A Visit to the King1.6x.mp3
+  1922. 036 Tricked Again1.6x.mp3
+  1923. 037 Missing from Heaven1.6x.mp3
+  1924. 038 Bajie Tries to Sleep1.6x.mp3
+  1925. 039 The Injured Monk1.6x.mp3
+  1926. 040 The Magic Gourd1.6x.mp3
+  1927. 041 A Trade1.6x.mp3
+  1928. 042 Sun Kongwu1.6x.mp3
+  1929. 043 A Visit from Laozi1.6x.mp3
+  1930. 044 The King's Ghost1.6x.mp3
+  1931. 045 The Treasure in the Well1.6x.mp3
+  1932. 046 One Thousand Pills1.6x.mp3
+  1933. 047 Two Tang Monks1.6x.mp3
+  1934. 048 The Scared Boy1.6x.mp3
+  1935. 049 Red Boy1.6x.mp3
+  1936. 050 Magic Fire1.6x.mp3
+  1937. 051 Guanyin Becomes Angry1.6x.mp3
+  1938. 052 An Ocean from a Vase1.6x.mp3
+  1939. 053 The Man in the Canoe1.6x.mp3
+  1940. 054 The River God1.6x.mp3
+  1941. 055 The Monks and the Cart1.6x.mp3
+  1942. 056 The Tiger Immortal1.6x.mp3
+  1943. 057 A Guessing Game1.6x.mp3
+  1944. 058 The Meditation Contest1.6x.mp3
+  1945. 059 Scared Villagers1.6x.mp3
+  1946. 060 Snow!1.6x.mp3
+  1947. 061 The Demon under the Ice1.6x.mp3
+  1948. 062 The Goldfish in the Basket1.6x.mp3
+  1949. 063 A Question for Buddha1.6x.mp3
+  1950. 064 Magnificent Silk Vests1.6x.mp3
+  1951. 065 The Metal Ring1.6x.mp3
+  1952. 066 Help from Heaven1.6x.mp3
+  1953. 067 The Master Thief1.6x.mp3
+  1954. 068 The Woman in the Crowd1.6x.mp3
+  1955. 069 The Stabbing Pain1.6x.mp3
+  1956. 070 The Star Lord1.6x.mp3
+  1957. 071 Money1.6x.mp3
+  1958. 072 A Surprise at the Fruit and Flower Mountain1.6x.mp3
+  1959. 073 Two Wukongs1.6x.mp3
+  1960. 074 Curious Ear1.6x.mp3
+  1961. 075 Battle of the Wukongs1.6x.mp3
+  1962. 076 The Iron Immortal1.6x.mp3
+  1963. 077 The Magic Fan1.6x.mp3
+  1964. 078 Tricked Again and Again1.6x.mp3
+  1965. 079 The Mountain of Flames1.6x.mp3
+  1966. 080 The Small Thunderclap Monastery1.6x.mp3
+  1967. 081 Help from a Dragon1.6x.mp3
+  1968. 082 The Magic Cloth1.6x.mp3
+  1969. 083 The Melon Field1.6x.mp3
+  1970. 084 The Sad King1.6x.mp3
+  1971. 085 Fire, Smoke, and Sand1.6x.mp3
+  1972. 086 Magic Bells1.6x.mp3
+  1973. 087 The Three Young Women1.6x.mp3
+  1974. 088 The Priest's Plan1.6x.mp3
+  1975. 089 Many Eyes1.6x.mp3
+  1976. 090 The Demons' Plan1.6x.mp3
+  1977. 091 The Demon Officers1.6x.mp3
+  1978. 092 The Lion Demon1.6x.mp3
+  1979. 093 A Problem for the Lion Demon1.6x.mp3
+  1980. 094 The Elephant Demon1.6x.mp3
+  1981. 095 The Raptor Demon1.6x.mp3
+  1982. 096 Wind and Fog1.6x.mp3
+  1983. 097 Bajie and the Monster1.6x.mp3
+  1984. 098 Three Fights1.6x.mp3
+  1985. 099 Squire Kou's Vow1.6x.mp3
+  1986. 100 A Terrible Robbery1.6x.mp3
+  1987. 101 Arrested!1.6x.mp3
+  1988. 102 The Prisoners Are Released1.6x.mp3
+  1989. 103 The Land of the West1.6x.mp3
+  1990. 104 The Tang Monk and the River1.6x.mp3
+  1991. 105 The Thunderclap Monastery1.6x.mp3
+  1992. 106 The Question1.6x.mp3
+  1993. 107 Nothing Is Perfect1.6x.mp3
+  1994. 108 Rewards1.6x.mp3
 
-Sarah y Pato西语 (起始索引: 1965, 文件数量: 32)
-  1965. S1E01_种植小葱.mp3
-  1966. S1E02_莎拉、鸭子与企鹅.mp3
-  1967. S1E03_清洗小毛驴.mp3
-  1968. S1E04_烤蛋糕.mp3
-  1969. S1E05_围巾夫人的家.mp3
-  1970. S1E06_机器人果汁.mp3
-  1971. S1E07_弹力球.mp3
-  1972. S1E08_彩虹柠檬.mp3
-  1973. S1E09_椅子店.mp3
-  1974. S1E10_放风筝.mp3
-  1975. S1E11_雨伞与雨.mp3
-  1976. S1E12_大商店.mp3
-  1977. S1E14_网球双打.mp3
-  1978. S1E15_游乐场.mp3
-  1979. S1E16_感冒了.mp3
-  1980. S1E17_丝带姐妹.mp3
-  1981. S1E18_观星.mp3
-  1982. S1E19_彩色光.mp3
-  1983. S1E21_照相机.mp3
-  1984. S1E22_踢踏鞋.mp3
-  1985. S1E23_雪车.mp3
-  1986. S1E24_烟花之舞.mp3
-  1987. S1E25_漂亮公园.mp3
-  1988. S1E26_管道指挥.mp3
-  1989. S1E27_缓慢任务.mp3
-  1990. S1E29_池塘公主.mp3
-  1991. S1E30_怕楼梯.mp3
-  1992. S1E31_热气球比赛.mp3
-  1993. S1E32_轮胎漏气.mp3
-  1994. S2E06_乌龟冬眠.mp3
-  1995. S3E23_街机舞对决.mp3
-  1996. S3E26_彩虹赛跑.mp3
+CleoYCunquin西语 (起始索引: 1995, 文件数量: 78)
+  1995. 01 - El estreno - 首映1.3x.mp3
+  1996. 02 - Atrapafantasma - 捉鬼达人1.3x.mp3
+  1997. 03 - Paseando a Pelusín - 带毛球散步1.3x.mp3
+  1998. 04 - Monstruas - 怪兽1.3x.mp3
+  1999. 05 - Doublé plié - 双起立小踢腿1.3x.mp3
+  2000. 06 - Elemental querida Colitas - 元素小姐与小尾巴1.3x.mp3
+  2001. 07 - Magic Cleo - 魔法可鲁1.3x.mp3
+  2002. 08 - El campeonato - 锦标赛1.3x.mp3
+  2003. 09 - La flor - 那朵花1.3x.mp3
+  2004. 10 - El diente volador - 飞牙1.3x.mp3
+  2005. 11 - Un día en la playa - 海滩的一天1.3x.mp3
+  2006. 12 - Lluvia de estrellas - 流星雨1.3x.mp3
+  2007. 13 - Superhéroes - 超级英雄1.3x.mp3
+  2008. 14 - Un día de sastre - 裁缝的一天1.3x.mp3
+  2009. 15 - Excavando - 挖掘1.3x.mp3
+  2010. 16 - Mi pequeña gran banda - 我的小小大乐队1.3x.mp3
+  2011. 17 - Suspenso en gimnasia - 体育课晕倒1.3x.mp3
+  2012. 18 - Fantasma enamorado - 恋爱的鬼魂1.3x.mp3
+  2013. 19 - La colmena - 蜂巢1.3x.mp3
+  2014. 20 - El proyecto de Teté - 特特的计划1.3x.mp3
+  2015. 21 - La pelota - 球1.3x.mp3
+  2016. 22 - El primer día de primavera - 第一个春天1.3x.mp3
+  2017. 23 - Feliz cumpleaños - 生日快乐1.3x.mp3
+  2018. 24 - La bici nueva - 新自行车1.3x.mp3
+  2019. 25 - El partidazo - 那场球赛1.3x.mp3
+  2020. 26 - Atrapado por las flores - 被花困住1.3x.mp3
+  2021. 27 - El accidente - 意外1.3x.mp3
+  2022. 28 - Una tarde de tele - 一个电视下午1.3x.mp3
+  2023. 29 - Por las ramas - 在树枝间1.3x.mp3
+  2024. 30 - Día de Navidad - 圣诞节1.3x.mp3
+  2025. 31 - El misterio de las verduras - 蔬菜谜案1.3x.mp3
+  2026. 32 - La carrera - 赛跑1.3x.mp3
+  2027. 33 - La helada - 冰冻1.3x.mp3
+  2028. 34 - Juguete-emergencias - 玩具急救队1.3x.mp3
+  2029. 35 - Al cole - 上学去1.3x.mp3
+  2030. 36 - ¿Me traes mi juguete？ - 能帮我拿玩具吗？1.3x.mp3
+  2031. 37 - ¡Quiero un zumo! - 我想要果汁！1.3x.mp3
+  2032. 38 - El álbum - 相册1.3x.mp3
+  2033. 39 - El secreto está en la pizza - 秘密在披萨里1.3x.mp3
+  2034. 40 - Aventura en el mar - 海上冒险1.3x.mp3
+  2035. 41 - ¡No quiero pintar! - 我不想画画！1.3x.mp3
+  2036. 42 - ¡Siéntate! - 坐下！1.3x.mp3
+  2037. 43 - Ella, caballera - 她是女骑士1.3x.mp3
+  2038. 44 - Todos contra Cleo - 全员对抗Cleo1.3x.mp3
+  2039. 45 - Una pesadilla de Halloween - 万圣节噩梦1.3x.mp3
+  2040. 46 - Avioncitos de papel - 纸飞机1.3x.mp3
+  2041. 47 - La leyenda del capitán garra - 坏船长加拉的传说1.3x.mp3
+  2042. 48 - El día de piscina - 泳池之日1.3x.mp3
+  2043. 49 - Policías y ladronzuelos - 警察和小偷1.3x.mp3
+  2044. 50 - Día de riego - 浇水日1.3x.mp3
+  2045. 51 - La flauta - 笛子1.3x.mp3
+  2046. 52 - ¡Que viene el lobo! - 狼来了！1.3x.mp3
+  2047. 53 - La nave - 宇宙飞船1.3x.mp3
+  2048. 54 - Búsqueda helada - 冰天雪地寻宝1.3x.mp3
+  2049. 55 - Mariesfinge - 海妖玛丽1.3x.mp3
+  2050. 56 - El huevo - 鸡蛋1.3x.mp3
+  2051. 57 - El videojuego - 电子游戏1.3x.mp3
+  2052. 58 - Goles sobre patines - 轮滑进球1.3x.mp3
+  2053. 59 - A todo hielo - 全垒打！冰上作战1.3x.mp3
+  2054. 60 - El circo de Cleo - Cleo的马戏团1.3x.mp3
+  2055. 61 - Nos vamos de vacaciones - 我们去度假1.3x.mp3
+  2056. 62 - Aventura al atardecer - 日落冒险1.3x.mp3
+  2057. 63 - La reforma - 大改造1.3x.mp3
+  2058. 64 - Nos vamos de cumple - 我们去生日会1.3x.mp3
+  2059. 65 - Las gafas de Teté - 特特的眼镜1.3x.mp3
+  2060. 66 - El gran huevo de Odín - 奥丁的大鸡蛋1.3x.mp3
+  2061. 67 - Escuela de monstruos - 怪兽学校1.3x.mp3
+  2062. 68 - Un mundo gigante - 巨大的世界1.3x.mp3
+  2063. 69 - Una nueva amiga - 新朋友1.3x.mp3
+  2064. 70 - Tesoros bajo la arena - 沙下的宝藏1.3x.mp3
+  2065. 71 - Juegos helados - 冰上游戏1.3x.mp3
+  2066. 72 - El misterio del cobertizo - 小棚屋之谜1.3x.mp3
+  2067. 73 - ¡Salvemos el bosque! - 拯救森林！1.3x.mp3
+  2068. 74 - El baile - 舞蹈1.3x.mp3
+  2069. 75 - Un pícnic en el bosque - 森林野餐1.3x.mp3
+  2070. 76 - Di patata - 说土豆1.3x.mp3
+  2071. 77 - ¡No te rasques! - 别挠我！1.3x.mp3
+  2072. 78 - El apagón - 大停电1.3x.mp3
 
-BenHolly西语 (起始索引: 1997, 文件数量: 24)
-  1997. 第1季第03集-霍莉的魔法棒.mp3
-  1998. 第1季第06集-王后的茶壶.mp3
-  1999. 第1季第08集-国王忙碌的一天.mp3
-  2000. 第1季第09集-欢乐游戏.mp3
-  2001. 第1季第10集-国王生病了.mp3
-  2002. 第1季第11集-丢失的蛋.mp3
-  2003. 第1季第12集-精灵运动会.mp3
-  2004. 第1季第13集-梅子保姆的课堂.mp3
-  2005. 第1季第14集-精灵工厂.mp3
-  2006. 第1季第15集-女巫太太.mp3
-  2007. 第1季第16集-精灵恶作剧日.mp3
-  2008. 第1季第19集-皇家高尔夫球场.mp3
-  2009. 第1季第21集-加斯顿来做客.mp3
-  2010. 第1季第24集-书.mp3
-  2011. 第1季第25集-毛毛虫贝蒂.mp3
-  2012. 第1季第26集-霍莉女王.mp3
-  2013. 第1季第31集-海盗精灵红胡子.mp3
-  2014. 第1季第32集-小蝌蚪.mp3
-  2015. 第1季第35集-自然课.mp3
-  2016. 第1季第37集-大坏鱼巴里.mp3
-  2017. 第1季第41集-晚宴.mp3
-  2018. 第1季第44集-精灵火箭.mp3
-  2019. 第1季第47集-橡果日.mp3
-  2020. 第1季第49集-拜访金盏花国王一家.mp3
+Sarah y Pato西 (起始索引: 2073, 文件数量: 32)
+  2073. S1E01_种植小葱.mp3
+  2074. S1E02_莎拉、鸭子与企鹅.mp3
+  2075. S1E03_清洗小毛驴.mp3
+  2076. S1E04_烤蛋糕.mp3
+  2077. S1E05_围巾夫人的家.mp3
+  2078. S1E06_机器人果汁.mp3
+  2079. S1E07_弹力球.mp3
+  2080. S1E08_彩虹柠檬.mp3
+  2081. S1E09_椅子店.mp3
+  2082. S1E10_放风筝.mp3
+  2083. S1E11_雨伞与雨.mp3
+  2084. S1E12_大商店.mp3
+  2085. S1E14_网球双打.mp3
+  2086. S1E15_游乐场.mp3
+  2087. S1E16_感冒了.mp3
+  2088. S1E17_丝带姐妹.mp3
+  2089. S1E18_观星.mp3
+  2090. S1E19_彩色光.mp3
+  2091. S1E21_照相机.mp3
+  2092. S1E22_踢踏鞋.mp3
+  2093. S1E23_雪车.mp3
+  2094. S1E24_烟花之舞.mp3
+  2095. S1E25_漂亮公园.mp3
+  2096. S1E26_管道指挥.mp3
+  2097. S1E27_缓慢任务.mp3
+  2098. S1E29_池塘公主.mp3
+  2099. S1E30_怕楼梯.mp3
+  2100. S1E31_热气球比赛.mp3
+  2101. S1E32_轮胎漏气.mp3
+  2102. S2E06_乌龟冬眠.mp3
+  2103. S3E23_街机舞对决.mp3
+  2104. S3E26_彩虹赛跑.mp3
 
-西游记1.6x (起始索引: 2021, 文件数量: 108)
-  2021. 001 The Monkey1.6x.mp3
-  2022. 002 The Waterfall Cave1.6x.mp3
-  2023. 003 Subodhi1.6x.mp3
-  2024. 004 Secret Formulas1.6x.mp3
-  2025. 005 The Demon of Chaos1.6x.mp3
-  2026. 006 The Dragon King1.6x.mp3
-  2027. 007 The Land of Darkness1.6x.mp3
-  2028. 008 A Job in Heaven1.6x.mp3
-  2029. 009 The Peach Garden1.6x.mp3
-  2030. 010 The Powerful Sage1.6x.mp3
-  2031. 011 Trouble in Heaven1.6x.mp3
-  2032. 012 The Bet1.6x.mp3
-  2033. 013 The True Scriptures1.6x.mp3
-  2034. 014 A Promise to Protect1.6x.mp3
-  2035. 015 Tea with a Dragon1.6x.mp3
-  2036. 016 Wukong Gets Tricked1.6x.mp3
-  2037. 017 The Dragon in the River1.6x.mp3
-  2038. 018 The Robe1.6x.mp3
-  2039. 019 An Evil Plan1.6x.mp3
-  2040. 020 The Black Bear Spirit1.6x.mp3
-  2041. 021 The Monster's Friend1.6x.mp3
-  2042. 022 A Very Strange Pill1.6x.mp3
-  2043. 023 Great Protectors1.6x.mp3
-  2044. 024 The Great King Yellow Wind1.6x.mp3
-  2045. 025 Powerful Wind Magic1.6x.mp3
-  2046. 026 The Monster in the River1.6x.mp3
-  2047. 027 The Ginseng Fruit1.6x.mp3
-  2048. 028 Wukong Leaves His Body1.6x.mp3
-  2049. 029 The Magic Sleeve1.6x.mp3
-  2050. 030 The Frying Pan1.6x.mp3
-  2051. 031 Guanyin's Vase1.6x.mp3
-  2052. 032 Lady Whitebone1.6x.mp3
-  2053. 033 Bajie Takes a Nap1.6x.mp3
-  2054. 034 Tricked by the Princess1.6x.mp3
-  2055. 035 A Visit to the King1.6x.mp3
-  2056. 036 Tricked Again1.6x.mp3
-  2057. 037 Missing from Heaven1.6x.mp3
-  2058. 038 Bajie Tries to Sleep1.6x.mp3
-  2059. 039 The Injured Monk1.6x.mp3
-  2060. 040 The Magic Gourd1.6x.mp3
-  2061. 041 A Trade1.6x.mp3
-  2062. 042 Sun Kongwu1.6x.mp3
-  2063. 043 A Visit from Laozi1.6x.mp3
-  2064. 044 The King's Ghost1.6x.mp3
-  2065. 045 The Treasure in the Well1.6x.mp3
-  2066. 046 One Thousand Pills1.6x.mp3
-  2067. 047 Two Tang Monks1.6x.mp3
-  2068. 048 The Scared Boy1.6x.mp3
-  2069. 049 Red Boy1.6x.mp3
-  2070. 050 Magic Fire1.6x.mp3
-  2071. 051 Guanyin Becomes Angry1.6x.mp3
-  2072. 052 An Ocean from a Vase1.6x.mp3
-  2073. 053 The Man in the Canoe1.6x.mp3
-  2074. 054 The River God1.6x.mp3
-  2075. 055 The Monks and the Cart1.6x.mp3
-  2076. 056 The Tiger Immortal1.6x.mp3
-  2077. 057 A Guessing Game1.6x.mp3
-  2078. 058 The Meditation Contest1.6x.mp3
-  2079. 059 Scared Villagers1.6x.mp3
-  2080. 060 Snow!1.6x.mp3
-  2081. 061 The Demon under the Ice1.6x.mp3
-  2082. 062 The Goldfish in the Basket1.6x.mp3
-  2083. 063 A Question for Buddha1.6x.mp3
-  2084. 064 Magnificent Silk Vests1.6x.mp3
-  2085. 065 The Metal Ring1.6x.mp3
-  2086. 066 Help from Heaven1.6x.mp3
-  2087. 067 The Master Thief1.6x.mp3
-  2088. 068 The Woman in the Crowd1.6x.mp3
-  2089. 069 The Stabbing Pain1.6x.mp3
-  2090. 070 The Star Lord1.6x.mp3
-  2091. 071 Money1.6x.mp3
-  2092. 072 A Surprise at the Fruit and Flower Mountain1.6x.mp3
-  2093. 073 Two Wukongs1.6x.mp3
-  2094. 074 Curious Ear1.6x.mp3
-  2095. 075 Battle of the Wukongs1.6x.mp3
-  2096. 076 The Iron Immortal1.6x.mp3
-  2097. 077 The Magic Fan1.6x.mp3
-  2098. 078 Tricked Again and Again1.6x.mp3
-  2099. 079 The Mountain of Flames1.6x.mp3
-  2100. 080 The Small Thunderclap Monastery1.6x.mp3
-  2101. 081 Help from a Dragon1.6x.mp3
-  2102. 082 The Magic Cloth1.6x.mp3
-  2103. 083 The Melon Field1.6x.mp3
-  2104. 084 The Sad King1.6x.mp3
-  2105. 085 Fire, Smoke, and Sand1.6x.mp3
-  2106. 086 Magic Bells1.6x.mp3
-  2107. 087 The Three Young Women1.6x.mp3
-  2108. 088 The Priest's Plan1.6x.mp3
-  2109. 089 Many Eyes1.6x.mp3
-  2110. 090 The Demons' Plan1.6x.mp3
-  2111. 091 The Demon Officers1.6x.mp3
-  2112. 092 The Lion Demon1.6x.mp3
-  2113. 093 A Problem for the Lion Demon1.6x.mp3
-  2114. 094 The Elephant Demon1.6x.mp3
-  2115. 095 The Raptor Demon1.6x.mp3
-  2116. 096 Wind and Fog1.6x.mp3
-  2117. 097 Bajie and the Monster1.6x.mp3
-  2118. 098 Three Fights1.6x.mp3
-  2119. 099 Squire Kou's Vow1.6x.mp3
-  2120. 100 A Terrible Robbery1.6x.mp3
-  2121. 101 Arrested!1.6x.mp3
-  2122. 102 The Prisoners Are Released1.6x.mp3
-  2123. 103 The Land of the West1.6x.mp3
-  2124. 104 The Tang Monk and the River1.6x.mp3
-  2125. 105 The Thunderclap Monastery1.6x.mp3
-  2126. 106 The Question1.6x.mp3
-  2127. 107 Nothing Is Perfect1.6x.mp3
-  2128. 108 Rewards1.6x.mp3
+BenHolly西 (起始索引: 2105, 文件数量: 24)
+  2105. 第1季第03集-霍莉的魔法棒.mp3
+  2106. 第1季第06集-王后的茶壶.mp3
+  2107. 第1季第08集-国王忙碌的一天.mp3
+  2108. 第1季第09集-欢乐游戏.mp3
+  2109. 第1季第10集-国王生病了.mp3
+  2110. 第1季第11集-丢失的蛋.mp3
+  2111. 第1季第12集-精灵运动会.mp3
+  2112. 第1季第13集-梅子保姆的课堂.mp3
+  2113. 第1季第14集-精灵工厂.mp3
+  2114. 第1季第15集-女巫太太.mp3
+  2115. 第1季第16集-精灵恶作剧日.mp3
+  2116. 第1季第19集-皇家高尔夫球场.mp3
+  2117. 第1季第21集-加斯顿来做客.mp3
+  2118. 第1季第24集-书.mp3
+  2119. 第1季第25集-毛毛虫贝蒂.mp3
+  2120. 第1季第26集-霍莉女王.mp3
+  2121. 第1季第31集-海盗精灵红胡子.mp3
+  2122. 第1季第32集-小蝌蚪.mp3
+  2123. 第1季第35集-自然课.mp3
+  2124. 第1季第37集-大坏鱼巴里.mp3
+  2125. 第1季第41集-晚宴.mp3
+  2126. 第1季第44集-精灵火箭.mp3
+  2127. 第1季第47集-橡果日.mp3
+  2128. 第1季第49集-拜访金盏花国王一家.mp3
 
