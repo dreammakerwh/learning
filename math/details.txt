@@ -728,7 +728,7 @@ MagicTreeHouse (起始索引: 1074, 文件数量: 4)
   1404. 2x9-11 The Flying Machine.mp3
   1405. 2x9-12 Key Trouble.mp3
 
-CleoYCunquin_mp3 (起始索引: 1406, 文件数量: 78)
+CleoYCunquin西语 (起始索引: 1406, 文件数量: 78)
   1406. 01 - El estreno - 首映.mp3
   1407. 02 - Atrapafantasma - 捉鬼达人.mp3
   1408. 03 - Paseando a Pelusín - 带毛球散步.mp3
@@ -814,7 +814,7 @@ WolfooLucy_1.3x (起始索引: 1500, 文件数量: 16)
 
 WolfooLucy_1.8x (起始索引: 1516, 文件数量: 16)
 
-CleoYCunquin_1.3x (起始索引: 1532, 文件数量: 78)
+CleoYCunquin西语_1.3x (起始索引: 1532, 文件数量: 78)
   1532. 01 - El estreno - 首映1.3x.mp3
   1533. 02 - Atrapafantasma - 捉鬼达人1.3x.mp3
   1534. 03 - Paseando a Pelusín - 带毛球散步1.3x.mp3
@@ -1263,7 +1263,7 @@ CleoYCunquin_1.3x (起始索引: 1532, 文件数量: 78)
   1963. 鹬蚌相争.mp3
   1964. 黔驴技穷.mp3
 
-Sarah y Pato (起始索引: 1965, 文件数量: 32)
+Sarah y Pato西语 (起始索引: 1965, 文件数量: 32)
   1965. S1E01_种植小葱.mp3
   1966. S1E02_莎拉、鸭子与企鹅.mp3
   1967. S1E03_清洗小毛驴.mp3
@@ -1297,7 +1297,7 @@ Sarah y Pato (起始索引: 1965, 文件数量: 32)
   1995. S3E23_街机舞对决.mp3
   1996. S3E26_彩虹赛跑.mp3
 
-BenHolly西 (起始索引: 1997, 文件数量: 24)
+BenHolly西语 (起始索引: 1997, 文件数量: 24)
   1997. 第1季第03集-霍莉的魔法棒.mp3
   1998. 第1季第06集-王后的茶壶.mp3
   1999. 第1季第08集-国王忙碌的一天.mp3
