@@ -55,8 +55,8 @@ text_files = sorted(
 
 # 带数字前缀（如 2_details.txt）的文件归入卡1；无数字前缀的文件归入卡2。
 cards = [
-    ("卡1", [p for p in text_files if p.stem.split("_", 1)[0].isdigit()]),
-    ("卡2", [p for p in text_files if not p.stem.split("_", 1)[0].isdigit()]),
+    ("卡1：文件比较少的", [p for p in text_files if p.stem.split("_", 1)[0].isdigit()]),
+    ("卡2:文件比较多那个", [p for p in text_files if not p.stem.split("_", 1)[0].isdigit()]),
 ]
 card_html = "\n".join(
     f'''    <section class="card">
